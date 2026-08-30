@@ -1,0 +1,63 @@
+name: Mega ATS sweep
+
+on:
+  workflow_dispatch:
+    inputs:
+      window_days:
+        description: "Report roles first published within this many days"
+        required: false
+        default: "7"
+      max_slugs:
+        description: "Slug variants to try per employer"
+        required: false
+        default: "3"
+  push:
+    paths:
+      - "scripts/mega_sweep.py"
+      - "scripts/ats_registry.py"
+      - "scripts/employers_uae.py"
+      - ".github/workflows/mega-sweep.yml"
+  schedule:
+    - cron: "0 4 * * *"   # 08:00 Gulf Standard Time, daily
+
+permissions:
+  contents: write
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Sweep every ATS platform across all UAE employers
+        env:
+          WINDOW_DAYS: ${{ github.event.inputs.window_days || '7' }}
+          MAX_SLUGS_PER_EMPLOYER: ${{ github.event.inputs.max_slugs || '3' }}
+          WORKERS: "96"
+          HTTP_TIMEOUT: "8"
+        run: python scripts/mega_sweep.py
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: mega-sweep-results
+          path: |
+            data/mega_sweep_results.json
+            data/ats_platform_map.json
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/mega_sweep_results.json data/ats_platform_map.json
+          git diff --staged --quiet || git commit -m "Mega ATS sweep results [skip ci]"
+          git pull --rebase --autostash || true
+          git push
