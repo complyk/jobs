@@ -1,0 +1,758 @@
+{
+  "run_utc": "2026-08-30T15:46:58.296227+00:00",
+  "window_days": 7,
+  "cutoff": "2026-08-23",
+  "dated": [
+    {
+      "platform": "global:workable-global",
+      "employer": "workable-global",
+      "sector": "global",
+      "title": "Head of Compliance - Dubai",
+      "location": "Dubai",
+      "url": "https://jobs.workable.com/view/fCZTWwc9iywy8tNRgSHgEL/head-of-compliance---dubai-in-dubai-at-lmax-group",
+      "posted_date": null,
+      "evidence": "Workable global published_on",
+      "in_window": false,
+      "age_days": null,
+      "resolved_date": "2026-07-27",
+      "resolved_evidence": "JSON-LD datePosted"
+    },
+    {
+      "platform": "recruitee",
+      "employer": "Tether",
+      "sector": "crypto",
+      "title": "Head of Regulatory Affairs and Licensing - Middle East",
+      "location": "Abu Dhabi",
+      "url": "https://careers.tether.io/o/head-of-regulatory-affairs-and-licensing-middle-east-3",
+      "posted_date": null,
+      "evidence": "Recruitee published_at",
+      "in_window": false,
+      "age_days": null,
+      "resolved_date": "2026-02-20",
+      "resolved_evidence": "JSON-LD datePosted"
+    },
+    {
+      "platform": "recruitee",
+      "employer": "Tether",
+      "sector": "crypto",
+      "title": "Head of Regulatory Affairs and Licensing - Middle East",
+      "location": "Dubai",
+      "url": "https://careers.tether.io/o/head-of-regulatory-affairs-and-licensing-middle-east-1",
+      "posted_date": null,
+      "evidence": "Recruitee published_at",
+      "in_window": false,
+      "age_days": null,
+      "resolved_date": "2026-02-20",
+      "resolved_evidence": "JSON-LD datePosted"
+    },
+    {
+      "platform": "pinpoint",
+      "employer": "Tabby",
+      "sector": "fintech",
+      "title": "Internal Audit Lead - Financial Crime",
+      "location": "UAE",
+      "url": "https://tabby.pinpointhq.com/en/postings/6bff2e6d-17c4-4985-8020-405a04aa6fa3",
+      "posted_date": null,
+      "evidence": "Pinpoint published_at",
+      "in_window": false,
+      "age_days": null,
+      "resolved_date": "2026-07-12",
+      "resolved_evidence": "JSON-LD datePosted"
+    },
+    {
+      "platform": "bamboohr",
+      "employer": "Tickmill",
+      "sector": "brokers",
+      "title": "Compliance Officer",
+      "location": "Dubai",
+      "url": "https://tickmill.bamboohr.com/careers/459",
+      "posted_date": null,
+      "evidence": "BambooHR datePosted",
+      "in_window": false,
+      "age_days": null,
+      "resolved_date": null,
+      "resolved_evidence": "page fetched, no date field present"
+    }
+  ],
+  "fingerprints": [
+    {
+      "employer": "Citi",
+      "domain": "citi.com",
+      "platform": "workday",
+      "tenant": "citi",
+      "careers_url": "https://jobs.citi.com",
+      "ats_url": "https://citi.eightfold.ai/careers/join?jtn_form_id=jtn-early-career",
+      "status": "ok"
+    },
+    {
+      "employer": "Sharjah Islamic Bank",
+      "domain": "sib.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "JPMorgan",
+      "domain": "jpmorganchase.com",
+      "platform": "oracle-hcm",
+      "tenant": null,
+      "careers_url": "https://www.jpmorganchase.com/careers?redirect=careers_jpm",
+      "ats_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions&#34;,&#34;ctaTitle&#34;:&#34;&#34;,&#34;ctaComponentName&#34;:&",
+      "status": "ok"
+    },
+    {
+      "employer": "RAKBank",
+      "domain": "rakbank.ae",
+      "platform": "oracle-hcm",
+      "tenant": null,
+      "careers_url": "https://www.rakbank.ae/en/about-us/careers",
+      "ats_url": "https://iacqey.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+      "status": "ok"
+    },
+    {
+      "employer": "Mashreq",
+      "domain": "mashreq.com",
+      "platform": "oracle-hcm",
+      "tenant": null,
+      "careers_url": "https://www.mashreq.com/en/uae/about-us/careers/careers-portal",
+      "ats_url": null,
+      "status": "ok"
+    },
+    {
+      "employer": "Invest Bank",
+      "domain": "investbank.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Societe Generale",
+      "domain": "societegenerale.com",
+      "platform": "taleo",
+      "tenant": "socgen",
+      "careers_url": "https://careers.societegenerale.com/",
+      "ats_url": "https://socgen.taleo.net/careersection/sgcareers/profile.ftl?lang=fr-FR&amp;src=CWS-1",
+      "status": "ok"
+    },
+    {
+      "employer": "BNP Paribas",
+      "domain": "bnpparibas.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Morgan Stanley",
+      "domain": "morganstanley.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Abu Dhabi Commercial Bank",
+      "domain": "adcb.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Emirates NBD",
+      "domain": "emiratesnbd.com",
+      "platform": "oracle-hcm",
+      "tenant": null,
+      "careers_url": "https://www.emiratesnbd.com/en/careers",
+      "ats_url": "https://fa-evlo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+      "status": "ok"
+    },
+    {
+      "employer": "Goldman Sachs",
+      "domain": "goldmansachs.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Al Maryah Community Bank",
+      "domain": "almaryahbank.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Deutsche Bank",
+      "domain": "db.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Pictet",
+      "domain": "pictet.com",
+      "platform": "successfactors",
+      "tenant": "career012",
+      "careers_url": "https://www.pictet.com/us/en/careers",
+      "ats_url": "https://career012.successfactors.eu/career?company=banquepict",
+      "status": "ok"
+    },
+    {
+      "employer": "UBS",
+      "domain": "ubs.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Lombard Odier",
+      "domain": "lombardodier.com",
+      "platform": "workday",
+      "tenant": "lombardodier",
+      "careers_url": "https://www.lombardodier.com/home.html",
+      "ats_url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers",
+      "status": "ok"
+    },
+    {
+      "employer": "Dubai Financial Market",
+      "domain": "dfm.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Barclays",
+      "domain": "barclays.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "ADGM",
+      "domain": "adgm.com",
+      "platform": "oracle-hcm",
+      "tenant": null,
+      "careers_url": "https://www.adgm.com/careers",
+      "ats_url": "https://fa-eukk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
+      "status": "ok"
+    },
+    {
+      "employer": "Dubai Multi Commodities Centre",
+      "domain": "dmcc.ae",
+      "platform": "oracle-hcm",
+      "tenant": null,
+      "careers_url": "https://dmcc.ae/careers",
+      "ats_url": "https://emag.fa.em8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+      "status": "ok"
+    },
+    {
+      "employer": "Nasdaq Dubai",
+      "domain": "nasdaqdubai.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Emirates Islamic",
+      "domain": "emiratesislamic.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "VARA",
+      "domain": "vara.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Central Bank of the UAE",
+      "domain": "centralbank.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "SHUAA Capital",
+      "domain": "shuaa.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Zand Bank",
+      "domain": "zand.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Emirates Investment Bank",
+      "domain": "eibank.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Wio Bank",
+      "domain": "wio.io",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Abu Dhabi Securities Exchange",
+      "domain": "adx.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Lunate",
+      "domain": "lunate.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "DIFC",
+      "domain": "difc.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Mubadala",
+      "domain": "mubadala.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Dubai Holding",
+      "domain": "dubaiholding.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Abu Dhabi Islamic Bank",
+      "domain": "adib.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Waha Capital",
+      "domain": "wahacapital.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "ADQ",
+      "domain": "adq.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "DFSA",
+      "domain": "dfsa.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Gulf Capital",
+      "domain": "gulfcapital.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Orient Insurance",
+      "domain": "insuranceuae.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "ADIA",
+      "domain": "adia.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Dubai Islamic Bank",
+      "domain": "dib.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "EFG Hermes",
+      "domain": "efghermes.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Network International",
+      "domain": "network.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Amanat Holdings",
+      "domain": "amanat.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "DAMAC",
+      "domain": "damacproperties.com",
+      "platform": "phenom",
+      "tenant": "cdn",
+      "careers_url": "https://careers.damacproperties.com/global/en/jointalentcommunity",
+      "ats_url": "https://cdn.phenompeople.com/CareerConnectResources/DPSDPNGLOBAL/en_global/desktop/assets/images/favicon.ico",
+      "status": "ok"
+    },
+    {
+      "employer": "Emaar",
+      "domain": "emaar.com",
+      "platform": "oracle-hcm",
+      "tenant": null,
+      "careers_url": "https://emhm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/",
+      "ats_url": "https://emhm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/",
+      "status": "ok"
+    },
+    {
+      "employer": "Majid Al Futtaim",
+      "domain": "majidalfuttaim.com",
+      "platform": "phenom",
+      "tenant": "cdn",
+      "careers_url": "https://careers.majidalfuttaim.com/global/en",
+      "ats_url": "https://cdn.phenompeople.com/CareerConnectResources/MAFMAFGLOBAL/en_global/desktop/assets/images/favicon.ico?v=1720532762983",
+      "status": "ok"
+    },
+    {
+      "employer": "Investcorp",
+      "domain": "investcorp.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Chalhoub Group",
+      "domain": "chalhoubgroup.com",
+      "platform": "teamtailor",
+      "tenant": null,
+      "careers_url": "https://careers.chalhoubgroup.com/",
+      "ats_url": null,
+      "status": "ok"
+    },
+    {
+      "employer": "Emirates Group",
+      "domain": "emirates.com",
+      "platform": "avature",
+      "tenant": "emiratesjobs",
+      "careers_url": "https://www.emiratesgroupcareers.com/",
+      "ats_url": "https://emiratesjobs.avature.net/careersmarketplace/Login",
+      "status": "ok"
+    },
+    {
+      "employer": "Etihad Airways",
+      "domain": "etihad.com",
+      "platform": "smartrecruiters",
+      "tenant": null,
+      "careers_url": "https://careers.etihad.com/",
+      "ats_url": null,
+      "status": "ok"
+    },
+    {
+      "employer": "DP World",
+      "domain": "dpworld.com",
+      "platform": "oracle-hcm",
+      "tenant": null,
+      "careers_url": "https://www.dpworld.com/en/careers",
+      "ats_url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+      "status": "ok"
+    },
+    {
+      "employer": "Magnati",
+      "domain": "magnati.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Al Futtaim",
+      "domain": "alfuttaim.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Dubai Insurance",
+      "domain": "dubins.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Credit Agricole",
+      "domain": "credit-agricole.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "G42",
+      "domain": "g42.ai",
+      "platform": "phenom",
+      "tenant": "cdn",
+      "careers_url": "https://careers.g42.ai/global/en",
+      "ats_url": "https://cdn.phenompeople.com/CareerConnectResources/OGWOGJGLOBAL/en_global/desktop/assets/images/favicon.ico?v=1785846815994",
+      "status": "ok"
+    },
+    {
+      "employer": "Etisalat",
+      "domain": "etisalat.ae",
+      "platform": "oracle-hcm",
+      "tenant": null,
+      "careers_url": "https://careers.etisalat.ae/en/index.html",
+      "ats_url": null,
+      "status": "ok"
+    },
+    {
+      "employer": "Sukoon Insurance",
+      "domain": "sukoon.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Emirates Insurance",
+      "domain": "eminsco.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "AD Ports",
+      "domain": "adports.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "TAQA",
+      "domain": "taqa.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Crypto.com",
+      "domain": "crypto.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "M2",
+      "domain": "m2.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Deribit",
+      "domain": "deribit.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Equiti",
+      "domain": "equiti.com",
+      "platform": "successfactors",
+      "tenant": "career2",
+      "careers_url": "https://career2.successfactors.eu/portalcareer?company=egmmarketiP2",
+      "ats_url": "https://career2.successfactors.eu/portalcareer?company=egmmarketiP2",
+      "status": "ok"
+    },
+    {
+      "employer": "Talabat",
+      "domain": "talabat.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Laser Digital",
+      "domain": "laserdigital.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Komainu",
+      "domain": "komainu.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Multibank",
+      "domain": "multibankfx.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Abu Dhabi National Insurance",
+      "domain": "adnic.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Charterhouse",
+      "domain": "charterhouseme.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "ADNOC",
+      "domain": "adnoc.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Hays",
+      "domain": "hays.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Securities and Commodities Authority",
+      "domain": "sca.gov.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Century Financial",
+      "domain": "century.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Salama",
+      "domain": "salama.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Korn Ferry",
+      "domain": "kornferry.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Cooper Fitch",
+      "domain": "cooperfitch.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Halian",
+      "domain": "halian.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Selby Jennings",
+      "domain": "selbyjennings.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Barclay Simpson",
+      "domain": "barclaysimpson.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "du",
+      "domain": "du.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Daman Investments",
+      "domain": "daman.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "ADSS",
+      "domain": "adss.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "United Arab Bank",
+      "domain": "uab.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Ajman Bank",
+      "domain": "ajmanbank.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Union Insurance",
+      "domain": "unioninsurance.ae",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Takaful Emarat",
+      "domain": "takafulemarat.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    },
+    {
+      "employer": "Noon",
+      "domain": "noon.com",
+      "platform": null,
+      "status": "no careers page reachable",
+      "tried": 15
+    }
+  ],
+  "new_hits": [],
+  "log": []
+}
