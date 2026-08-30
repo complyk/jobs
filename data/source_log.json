@@ -1,3 +1,36 @@
 {
-  "runs": []
+  "runs": [
+    {
+      "run_date_gst": "2026-08-30 ~18:50 GST",
+      "infrastructure": "CRITICAL: session egress proxy is deny-all for outbound HTTPS (curl AND WebFetch blocked for every external job domain tested, incl. all ATS APIs, boards, recruiter and employer sites; CONNECT 403). Only server-side WebSearch worked. Tier 1 direct-ATS strategy impossible; all dates are search-snippet evidence. Fix: allowlist job domains (or 'trusted' network policy) on the Claude Code environment.",
+      "tiers": {
+        "tier1_ats_direct": {
+          "status": "all direct endpoints blocked (greenhouse boards-api x9 slugs, lever, ashby, workable, smartrecruiters, okx.com, wikipedia control)",
+          "via_search": "~35 slugs swept via WebSearch; hits: bybit(GH), stripe(GH), wise(SR), fab(SR x2), capital.com(Lever), leantech(Ashby), airwallex(Ashby); zero-hit slugs: cryptocom krakenfx bitpanda circle ripple chainalysis fireblocks paxos gemini deribit copper galaxydigital ledger nium checkout adyen revolut rain bitoasis fuze m2 tabby tamara telr mamopay ziina careem propertyfinder e&money yallacompare sarwa stashaway baraka"
+        },
+        "tier2_employers": {
+          "status": "all fetches blocked; ~45 employers swept via search",
+          "hits": "Citi x2 unverified; Kroll 1 stale-borderline; EY 1 below-bar",
+          "no_match": "HSBC SCB Barclays UBS DB JuliusBaer FAB-portal ENBD EmiratesIslamic ADCB-portal Mashreq ADIB DIB RAKBank CBD NBF AjmanBank SIB DFSA-careers ADGM-careers CBUAE SCA VARA DIFC DFM ADX NasdaqDubai Mubadala ADQ Lunate Investcorp EIA Salama Sukoon GIGGulf Deloitte PwC KPMG BDO GrantThornton FTI A&M"
+        },
+        "tier3_boards": {
+          "status": "all fetches blocked (eFC, Indeed, Bayt, GulfTalent, NaukriGulf, Talent.com, Jooble, Careerjet, Wellfound); Adzuna+foundit DNS fail; Glassdoor/Laimoon/Dubizzle search-only; WTTJ 1 hit (Flowdesk)",
+          "queries": "14 Google-Jobs-proxy WebSearch queries, linkedin.com blocked throughout"
+        },
+        "tier4_recruiters": {
+          "status": "26 firms swept via search; fetches blocked",
+          "hits": "JamesonLegal 1, BarclaySimpson 3-4, Mayfair 2 — all undated",
+          "no_match": "Hays MorganMcKinley Charterhouse CooperFitch RobertHalf MarkWilliams Nadia SelbyJennings Huxley TaylorRoot Halian Tiger InspireSelection Sapphire KornFerry; Heidrick/SpencerStuart/EgonZehnder/RussellReynolds no public listings"
+        },
+        "tier5_signals": {
+          "status": "4 news searches; nothing dated 2026-08-27..30",
+          "checked_out_of_window": "Coinbase ADGM FSP tokenization hub 2026-08-11; Bitcoin Suisse ADGM licence (crypto.news blocked, undatable); Revolut VARA IPA Jul-2026; Crypto.com CBUAE SVF (older)"
+        }
+      },
+      "sources_attempted_approx": 130,
+      "new_roles_reported": 2,
+      "previously_reported_resurfaced": 0,
+      "hard_exclusions_respected": ["linkedin.com never queried/fetched/cited", "DFSA/FSRA public registers and ADGM RA not crawled"]
+    }
+  ]
 }

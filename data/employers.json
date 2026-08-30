@@ -1,3 +1,35 @@
 {
-  "employers": {}
+  "employers": {
+    "Edenred UAE": {"ats": "Teamtailor-style", "careers_url": "https://careers.edenred.ae", "homepage": "https://www.edenred.ae"},
+    "Thndr": {"ats": "Hub71 board", "careers_url": "https://jobs.hub71.com/companies/thndr", "homepage": "https://thndr.app"},
+    "Bybit": {"ats": "Greenhouse", "careers_url": "https://job-boards.greenhouse.io/bybit", "homepage": "https://www.bybit.com"},
+    "Stripe": {"ats": "Greenhouse", "careers_url": "https://job-boards.greenhouse.io/stripe", "homepage": "https://stripe.com"},
+    "Wise": {"ats": "SmartRecruiters", "careers_url": "https://jobs.smartrecruiters.com/Wise", "homepage": "https://wise.com"},
+    "First Abu Dhabi Bank": {"ats": "SmartRecruiters", "careers_url": "https://jobs.smartrecruiters.com/FirstAbuDhabiBank", "homepage": "https://www.bankfab.com"},
+    "ADCB": {"ats": "SAP SuccessFactors", "careers_url": "https://adcbcareers.com", "homepage": "https://www.adcb.com"},
+    "Citi": {"ats": "Phenom", "careers_url": "https://jobs.citi.com", "homepage": "https://www.citigroup.com"},
+    "Flowdesk": {"ats": "Welcome to the Jungle", "careers_url": "https://www.welcometothejungle.com/en/companies/flowdesk", "homepage": "https://www.flowdesk.co"},
+    "Lean Technologies": {"ats": "Ashby", "careers_url": "https://jobs.ashbyhq.com/LeanTech", "homepage": "https://www.leantech.me"},
+    "Airwallex": {"ats": "Ashby + own careers site", "careers_url": "https://careers.airwallex.com", "homepage": "https://www.airwallex.com"},
+    "Capital.com / Capital Vault UAE": {"ats": "Lever", "careers_url": "https://jobs.lever.co/capital", "homepage": "https://capital.com"},
+    "LMAX Group": {"ats": "own site", "careers_url": "https://careers.lmax.com/job-openings/", "homepage": "https://www.lmax.com"},
+    "IG Group": {"ats": "Workday", "careers_url": "https://www.ig.com/en/careers", "homepage": "https://www.ig.com"},
+    "Binance": {"ats": "own site (GH historically)", "careers_url": "https://www.binance.com/en/careers", "homepage": "https://www.binance.com"},
+    "JTC Group": {"ats": "own site", "careers_url": "https://careers.jtcgroup.com", "homepage": "https://www.jtcgroup.com"},
+    "Emirates NBD": {"ats": "Oracle HCM", "careers_url": "https://careers.emiratesnbd.com", "homepage": "https://www.emiratesnbd.com"},
+    "RAKBank": {"ats": "own portal", "careers_url": "https://careers.rakbank.ae", "homepage": "https://www.rakbank.ae"},
+    "Mashreq": {"ats": "own portal", "careers_url": "https://www.mashreq.com/en/uae/neo/careers/", "homepage": "https://www.mashreq.com"},
+    "Kroll": {"ats": "own portal", "careers_url": "https://careers.kroll.com", "homepage": "https://www.kroll.com"},
+    "recruiters": {
+      "Mayfair Partners": "via GulfTalent/Jobaaj",
+      "AMT Partners": "https://www.careers-page.com/amt-partners",
+      "King Deux Search & Consulting": "https://www.careers-page.com/kingdeux",
+      "Jameson Legal": "https://www.jamesonlegal.com/jobs",
+      "Barclay Simpson": "https://www.barclaysimpson.com",
+      "Michael Page UAE": "https://www.michaelpage.ae/jobs/compliance",
+      "Robert Walters UAE": "https://www.robertwalters.ae",
+      "Halian": "https://halian.com",
+      "ERC International": "via Bayt"
+    }
+  }
 }

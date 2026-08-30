@@ -1,3 +1,306 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "canonical_url": "https://careers.edenred.ae/jobs/7713687-fcc-manager-and-mlro",
+      "employer": "Edenred UAE",
+      "title": "FCC Manager and MLRO",
+      "location": "Dubai",
+      "first_seen": "2026-08-30",
+      "posted_date": "~2026-08-28",
+      "date_evidence": "Jooble aggregator snippet 'Posted 2 days ago' (page fetch blocked)",
+      "status": "reported_new",
+      "also_listed_at": ["https://ae.jooble.org/jdp/3292904645861335710"],
+      "jd_hash": null
+    },
+    {
+      "canonical_url": "https://jobs.hub71.com/companies/thndr/jobs/47624699-compliance-officer-mlro-comlro-abu-dhabi",
+      "employer": "Thndr",
+      "title": "Compliance Officer & MLRO (COMLRO)",
+      "location": "Abu Dhabi (ADGM)",
+      "first_seen": "2026-08-30",
+      "posted_date": "~2026-08-28",
+      "date_evidence": "eFinancialCareers-Gulf copy 'posted on August 28, 2026' via search snippet; Hub71 copy may already be closed (repost/close race)",
+      "status": "reported_new",
+      "also_listed_at": [
+        "https://www.efinancialcareers-gulf.com/jobs-United_Arab_Emirates-Abu_Dhabi-Compliance_Officer__MLRO_COMLRO_Abu-Dhabi.id22647304",
+        "https://careers.4dxventures.com/companies/thndr/jobs/47624699-compliance-officer-mlro-comlro-abu-dhabi"
+      ],
+      "jd_hash": null
+    },
+    {
+      "canonical_url": "https://job-boards.greenhouse.io/bybit/jobs/4932856101",
+      "employer": "Bybit",
+      "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH",
+      "location": "Abu Dhabi (ADGM)",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none — Greenhouse API blocked, no aggregator date",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://job-boards.greenhouse.io/stripe/jobs/7757554",
+      "employer": "Stripe",
+      "title": "UAE Chief Risk Officer & Compliance and MLRO (CRO/COMLRO)",
+      "location": "Dubai (hybrid)",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none",
+      "status": "unverified_date",
+      "also_listed_at": ["https://stripe.com/jobs/listing/uae-chief-risk-officer-and-compliance-and-money-laundering-reporting-officer-cro-comlro/7757554"]
+    },
+    {
+      "canonical_url": "https://jobs.smartrecruiters.com/Wise/744000095952017-compliance-senior-manager-virtual-assets-compliance-officer-vaco-",
+      "employer": "Wise",
+      "title": "Compliance Senior Manager - Virtual Assets Compliance Officer (VACO)",
+      "location": "Dubai (VARA)",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none; SmartRecruiters ID numerically recent — possibly freshest unverified lead",
+      "status": "unverified_date",
+      "also_listed_at": ["https://wise.jobs/job/compliance-senior-manager-digital-assets-in-dubai-jid-2645"]
+    },
+    {
+      "canonical_url": "https://jobs.smartrecruiters.com/FirstAbuDhabiBank/744000077188978-head-of-compliance-mlro-adgm-asset-management-",
+      "employer": "First Abu Dhabi Bank",
+      "title": "Head of Compliance & MLRO - ADGM (Asset Management)",
+      "location": "Abu Dhabi (ADGM)",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none; NaukriGulf mirror of sister role hints ~2025-08-21 family",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://jobs.smartrecruiters.com/FirstAbuDhabiBank/744000078085435-head-of-compliance-mlro-sca-asset-management-",
+      "employer": "First Abu Dhabi Bank",
+      "title": "Head of Compliance & MLRO - SCA (Asset Management)",
+      "location": "Abu Dhabi",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none",
+      "status": "unverified_date",
+      "also_listed_at": ["https://startup.jobs/head-of-compliance-mlro-sca-asset-management-first-abu-dhabi-bank-2-6918952"]
+    },
+    {
+      "canonical_url": "https://adcbcareers.com/job/Abu-Dhabi-Head-AML-Investigation-and-Deputy-MLRO-Abu-939/733249222/",
+      "employer": "Abu Dhabi Commercial Bank (ADCB)",
+      "title": "Head - AML Investigation and Deputy MLRO",
+      "location": "Abu Dhabi",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://jobs.citi.com/job/dubai/senior-vice-president-anti-money-laundering-officer-uae-national-preferred/287/74264012288",
+      "employer": "Citi",
+      "title": "SVP - Anti Money Laundering Officer (UAE National Preferred)",
+      "location": "Dubai (hybrid)",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none (Req 24809319)",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://jobs.citi.com/job/dubai/anti-money-laundering-manager-vice-president-uae-nationals-only/287/76006914000",
+      "employer": "Citi",
+      "title": "Anti Money Laundering Manager - Vice President (UAE Nationals Only)",
+      "location": "Dubai (hybrid)",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://www.welcometothejungle.com/en/companies/flowdesk/jobs/compliance-officer-mlro-uae-f-m-d_dubai",
+      "employer": "Flowdesk",
+      "title": "Compliance Officer & MLRO UAE",
+      "location": "Dubai (VARA)",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none; reports to Board",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://jobs.ashbyhq.com/LeanTech/0e474a87-0737-460c-b821-77700f81264d",
+      "employer": "Lean Technologies",
+      "title": "Senior Compliance Manager",
+      "location": "Dubai",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none; reports to Chief Legal Officer",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://www.careers-page.com/amt-partners/job/L499Y7XV",
+      "employer": "Confidential (via AMT Partners) — US-HQ multi-asset institutional brokerage",
+      "title": "Head of Compliance/MLRO (DIFC)",
+      "location": "Dubai (DIFC)",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://www.careers-page.com/kingdeux/job/LR595X4X",
+      "employer": "Confidential crypto firm (via King Deux Search & Consulting)",
+      "title": "Compliance Officer & MLRO (ADGM Cat 3A)",
+      "location": "Abu Dhabi (ADGM)",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none; AED 50-65K/month",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://www.gulftalent.com/uae/jobs/head-of-compliance-money-laundering-reporting-officer-mlro-442192",
+      "employer": "Confidential (via Mayfair Partners)",
+      "title": "Head of Compliance & MLRO (ADGM)",
+      "location": "Abu Dhabi (ADGM)",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none",
+      "status": "unverified_date",
+      "also_listed_at": ["https://www.jobaaj.com/job/mayfair-partners-head-of-compliance-money-laundering-reporting-officer-mlro-abu-dhabi-uae-2-to-4-years-529645"]
+    },
+    {
+      "canonical_url": "https://www.jobaaj.com/job/mayfair-partners-head-of-compliance-mlro-dubai-dubai-united-arab-emirates-10-to-15-years-378475",
+      "employer": "Confidential cross-border FX firm (via Mayfair Partners)",
+      "title": "Head of Compliance & MLRO (DFSA/FSRA)",
+      "location": "Dubai (DIFC)",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://www.jamesonlegal.com/jobs/group-head-of-compliance-dubai",
+      "employer": "Confidential multinational, Dubai HQ (via Jameson Legal)",
+      "title": "Group Head of Compliance",
+      "location": "Dubai",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none; GBP 180-280k per snippet",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://www.barclaysimpson.com/job/chief-compliance-officer-jobid-cbm48160",
+      "employer": "Confidential (via Barclay Simpson)",
+      "title": "Chief Compliance Officer - UAE",
+      "location": "UAE",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://www.efinancialcareers-gulf.com/jobs-United_Arab_Emirates-Dubai-Head_of_Compliance__MLRO_SCA.id22827961",
+      "employer": "Capital Vault UAE (Capital.com group)",
+      "title": "Head of Compliance / MLRO (SCA)",
+      "location": "Dubai",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none; pre-launch SCA crypto spot exchange/custody",
+      "status": "unverified_date",
+      "also_listed_at": ["https://jobs.lever.co/capital/f5755f96-aa8d-4f52-8235-9dbab3ffe5ad"]
+    },
+    {
+      "canonical_url": "https://jobs.ashbyhq.com/airwallex/7f202d9f-50e9-4935-a444-8052985581d6",
+      "employer": "Airwallex",
+      "title": "Manager, Regulatory Compliance UAE",
+      "location": "Dubai",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none; NaukriGulf jid pattern hints ~Feb 2026 (unproven)",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://www.gulftalent.com/uae/jobs/compliance-manager-mlro-officer-394374",
+      "employer": "Matt Haycox Group",
+      "title": "Compliance Manager/MLRO Officer",
+      "location": "Dubai",
+      "first_seen": "2026-08-30",
+      "posted_date": null,
+      "date_evidence": "none; AED 15-20K/month",
+      "status": "unverified_date"
+    },
+    {
+      "canonical_url": "https://careers.lmax.com/job-openings/",
+      "employer": "LMAX Group",
+      "title": "Head of Compliance & MLRO (SCA)",
+      "location": "Dubai",
+      "first_seen": "2026-08-30",
+      "posted_date": "2026-02-07",
+      "date_evidence": "founditgulf 57704958 posted 2026-02-07; Jooble mirrors are reposts ('4 days ago' snippet is refresh)",
+      "status": "out_of_window"
+    },
+    {
+      "canonical_url": "https://www.bayt.com/en/uae/jobs/head-of-compliance-mlro-m-f-d-74429976/",
+      "employer": "Halian (payments fintech client, DFSA)",
+      "title": "Head of Compliance & MLRO (m/f/d)",
+      "location": "Dubai",
+      "first_seen": "2026-08-30",
+      "posted_date": "2026-08-13",
+      "date_evidence": "Bayt search snippet",
+      "status": "out_of_window"
+    },
+    {
+      "canonical_url": "https://www.efinancialcareers-gulf.com/jobs-United_Arab_Emirates-Dubai-Head_of_Compliance.id23209374",
+      "employer": "IG Group",
+      "title": "Head of Compliance & MLRO (VARA)",
+      "location": "Dubai",
+      "first_seen": "2026-08-30",
+      "posted_date": "2025-09-18",
+      "date_evidence": "search snippet",
+      "status": "out_of_window"
+    },
+    {
+      "canonical_url": "https://careers.airwallex.com/job/2b20f67b-6519-411a-b89e-558944844f72/compliance-manager-mlro/",
+      "employer": "Airwallex",
+      "title": "Compliance Manager, MLRO (UAE)",
+      "location": "Dubai",
+      "first_seen": "2026-08-30",
+      "posted_date": "2026-07-07",
+      "date_evidence": "Built In mirror",
+      "status": "out_of_window"
+    },
+    {
+      "canonical_url": "https://www.naukrigulf.com/mlro-jobs",
+      "employer": "Binance",
+      "title": "Deputy MLRO - ADGM",
+      "location": "Abu Dhabi (ADGM)",
+      "first_seen": "2026-08-30",
+      "posted_date": "2026-07-09",
+      "date_evidence": "NaukriGulf jid code",
+      "status": "out_of_window"
+    },
+    {
+      "canonical_url": "https://www.bayt.com/en/uae/jobs/head-of-compliance-compliance-officer-mlro-5468316/",
+      "employer": "ERC International (DIFC international bank client)",
+      "title": "Head of Compliance (CO & MLRO)",
+      "location": "Dubai (DIFC)",
+      "first_seen": "2026-08-30",
+      "posted_date": "2026-07-09",
+      "date_evidence": "Bayt snippet",
+      "status": "out_of_window"
+    },
+    {
+      "canonical_url": "https://careers.acams.org/job/compliance-officer-mlro-asset-investment-management/83754524/",
+      "employer": "Confidential DFSA-regulated asset manager (DIFC)",
+      "title": "Compliance Officer & MLRO - Asset & Investment Management",
+      "location": "Dubai (DIFC)",
+      "first_seen": "2026-08-30",
+      "posted_date": "2026-05-04",
+      "date_evidence": "ACAMS board stated date",
+      "status": "out_of_window"
+    },
+    {
+      "canonical_url": "https://jobs.jtcgroup.com/",
+      "employer": "JTC Group",
+      "title": "Director - Compliance Officer & MLRO (DIFC)",
+      "location": "Dubai (DIFC)",
+      "first_seen": "2026-08-30",
+      "posted_date": "2026-08-06",
+      "date_evidence": "search snippet",
+      "status": "out_of_window"
+    }
+  ]
 }
