@@ -1,0 +1,52 @@
+name: ATS sweep
+
+on:
+  workflow_dispatch:
+    inputs:
+      window_days:
+        description: "Report roles first published within this many days"
+        required: false
+        default: "7"
+  push:
+    paths:
+      - "scripts/ats_sweep.py"
+      - ".github/workflows/ats-sweep.yml"
+  schedule:
+    - cron: "0 4 * * *"   # 08:00 Gulf Standard Time, daily
+
+permissions:
+  contents: write
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Sweep ATS endpoints
+        env:
+          WINDOW_DAYS: ${{ github.event.inputs.window_days || '7' }}
+        run: python scripts/ats_sweep.py
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ats-sweep-results
+          path: data/ats_sweep_results.json
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ats_sweep_results.json
+          git diff --staged --quiet || git commit -m "ATS sweep results [skip ci]"
+          git pull --rebase --autostash || true
+          git push
