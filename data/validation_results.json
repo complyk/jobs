@@ -1,7 +1,8 @@
 {
-  "run_utc": "2026-08-30T14:54:59.642221+00:00",
+  "run_utc": "2026-08-30T15:03:46.665642+00:00",
   "window_days": 7,
   "cutoff": "2026-08-23",
+  "method": "playwright-chromium on GH runner",
   "validated": [
     {
       "id": "edenred-fcc-mlro",
@@ -10,7 +11,6 @@
       "location": "Dubai",
       "url": "https://careers.edenred.ae/jobs/7713687-fcc-manager-and-mlro",
       "http_status": 200,
-      "final_url": "https://careers.edenred.ae/jobs/7713687-fcc-manager-and-mlro",
       "posted_date": "2026-05-11",
       "evidence": "JSON-LD datePosted",
       "approximate": false,
@@ -25,13 +25,14 @@
       "location": "Abu Dhabi (ADGM)",
       "url": "https://jobs.hub71.com/companies/thndr/jobs/47624699-compliance-officer-mlro-comlro-abu-dhabi",
       "http_status": 200,
-      "final_url": "https://jobs.hub71.com/companies/thndr/jobs/47624699-compliance-officer-mlro-comlro-abu-dhabi",
-      "posted_date": "2025-03-20",
-      "evidence": "JSON-LD datePosted",
+      "posted_date": null,
+      "evidence": null,
       "approximate": false,
-      "verdict": "remove-out-of-window",
-      "notes": [],
-      "age_days": 528
+      "verdict": "dead",
+      "notes": [
+        "jobs.hub71.com: dead/expired (HTTP 200)",
+        "careers.4dxventures.com: dead/expired (HTTP 200)"
+      ]
     },
     {
       "id": "wise-vaco",
@@ -40,13 +41,13 @@
       "location": "Dubai",
       "url": "https://jobs.smartrecruiters.com/Wise/744000095952017-compliance-senior-manager-virtual-assets-compliance-officer-vaco-",
       "http_status": 200,
-      "final_url": "https://jobs.smartrecruiters.com/Wise/744000095952017-compliance-senior-manager-virtual-assets-compliance-officer-vaco-",
-      "posted_date": "2026-06-24",
-      "evidence": "SmartRecruiters API releasedDate",
+      "posted_date": null,
+      "evidence": null,
       "approximate": false,
-      "verdict": "remove-out-of-window",
-      "notes": [],
-      "age_days": 67
+      "verdict": "dead",
+      "notes": [
+        "jobs.smartrecruiters.com: dead/expired (HTTP 200)"
+      ]
     },
     {
       "id": "stripe-cro-comlro",
@@ -55,12 +56,13 @@
       "location": "Dubai",
       "url": "https://job-boards.greenhouse.io/stripe/jobs/7757554",
       "http_status": 200,
-      "final_url": "https://stripe.com/careers/search",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
       "verdict": "remove-undated",
-      "notes": []
+      "notes": [
+        "stripe.com: dead/expired (HTTP 404)"
+      ]
     },
     {
       "id": "bybit-mlro-adgm",
@@ -69,13 +71,11 @@
       "location": "Abu Dhabi (ADGM)",
       "url": "https://job-boards.greenhouse.io/bybit/jobs/4932856101",
       "http_status": 200,
-      "final_url": "https://job-boards.greenhouse.io/bybit/jobs/4932856101",
-      "posted_date": "2026-07-20",
-      "evidence": "Greenhouse API first_published",
+      "posted_date": null,
+      "evidence": null,
       "approximate": false,
-      "verdict": "remove-out-of-window",
-      "notes": [],
-      "age_days": 41
+      "verdict": "remove-undated",
+      "notes": []
     },
     {
       "id": "fab-adgm-am",
@@ -84,14 +84,12 @@
       "location": "Abu Dhabi (ADGM)",
       "url": "https://jobs.smartrecruiters.com/FirstAbuDhabiBank/744000077188978-head-of-compliance-mlro-adgm-asset-management-",
       "http_status": 404,
-      "final_url": "https://jobs.smartrecruiters.com/FirstAbuDhabiBank/744000077188978-head-of-compliance-mlro-adgm-asset-management-",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
       "verdict": "dead",
       "notes": [
-        "HTTP 404 - posting removed",
-        "no UAE location token found in page text"
+        "jobs.smartrecruiters.com: dead/expired (HTTP 404)"
       ]
     },
     {
@@ -101,14 +99,13 @@
       "location": "Abu Dhabi",
       "url": "https://jobs.smartrecruiters.com/FirstAbuDhabiBank/744000078085435-head-of-compliance-mlro-sca-asset-management-",
       "http_status": 404,
-      "final_url": "https://jobs.smartrecruiters.com/FirstAbuDhabiBank/744000078085435-head-of-compliance-mlro-sca-asset-management-",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
       "verdict": "dead",
       "notes": [
-        "HTTP 404 - posting removed",
-        "no UAE location token found in page text"
+        "jobs.smartrecruiters.com: dead/expired (HTTP 404)",
+        "startup.jobs: dead/expired (HTTP 200)"
       ]
     },
     {
@@ -118,12 +115,13 @@
       "location": "Abu Dhabi",
       "url": "https://adcbcareers.com/job/Abu-Dhabi-Head-AML-Investigation-and-Deputy-MLRO-Abu-939/733249222/",
       "http_status": 200,
-      "final_url": "https://adcbcareers.com/job/Abu-Dhabi-Head-AML-Investigation-and-Deputy-MLRO-Abu-939/733249222/",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
-      "verdict": "remove-undated",
-      "notes": []
+      "verdict": "dead",
+      "notes": [
+        "adcbcareers.com: dead/expired (HTTP 200)"
+      ]
     },
     {
       "id": "citi-svp-amlo",
@@ -132,13 +130,12 @@
       "location": "Dubai",
       "url": "https://jobs.citi.com/job/dubai/senior-vice-president-anti-money-laundering-officer-uae-national-preferred/287/74264012288",
       "http_status": 404,
-      "final_url": "https://jobs.citi.com/job/dubai/senior-vice-president-anti-money-laundering-officer-uae-national-preferred/287/74264012288",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
       "verdict": "dead",
       "notes": [
-        "HTTP 404 - posting removed"
+        "jobs.citi.com: dead/expired (HTTP 404)"
       ]
     },
     {
@@ -148,13 +145,12 @@
       "location": "Dubai",
       "url": "https://jobs.citi.com/job/dubai/anti-money-laundering-manager-vice-president-uae-nationals-only/287/76006914000",
       "http_status": 404,
-      "final_url": "https://jobs.citi.com/job/dubai/anti-money-laundering-manager-vice-president-uae-nationals-only/287/76006914000",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
       "verdict": "dead",
       "notes": [
-        "HTTP 404 - posting removed"
+        "jobs.citi.com: dead/expired (HTTP 404)"
       ]
     },
     {
@@ -164,13 +160,12 @@
       "location": "Dubai",
       "url": "https://www.welcometothejungle.com/en/companies/flowdesk/jobs/compliance-officer-mlro-uae-f-m-d_dubai",
       "http_status": 202,
-      "final_url": "https://www.welcometothejungle.com/en/companies/flowdesk/jobs/compliance-officer-mlro-uae-f-m-d_dubai",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
-      "verdict": "remove-undated",
+      "verdict": "dead",
       "notes": [
-        "no UAE location token found in page text"
+        "www.welcometothejungle.com: dead/expired (HTTP 202)"
       ]
     },
     {
@@ -180,14 +175,12 @@
       "location": "Dubai",
       "url": "https://jobs.ashbyhq.com/LeanTech/0e474a87-0737-460c-b821-77700f81264d",
       "http_status": 200,
-      "final_url": "https://jobs.ashbyhq.com/LeanTech/0e474a87-0737-460c-b821-77700f81264d",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
-      "verdict": "remove-undated",
+      "verdict": "dead",
       "notes": [
-        "Ashby API: job id not on live board (likely closed)",
-        "no UAE location token found in page text"
+        "jobs.ashbyhq.com: dead/expired (HTTP 200)"
       ]
     },
     {
@@ -197,7 +190,6 @@
       "location": "Dubai (DIFC)",
       "url": "https://www.careers-page.com/amt-partners/job/L499Y7XV",
       "http_status": 200,
-      "final_url": "https://www.careers-page.com/amt-partners/job/L499Y7XV",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
@@ -211,7 +203,6 @@
       "location": "Abu Dhabi (ADGM)",
       "url": "https://www.careers-page.com/kingdeux/job/LR595X4X",
       "http_status": 200,
-      "final_url": "https://www.careers-page.com/kingdeux/job/LR595X4X",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
@@ -225,7 +216,6 @@
       "location": "Abu Dhabi (ADGM)",
       "url": "https://www.gulftalent.com/uae/jobs/head-of-compliance-money-laundering-reporting-officer-mlro-442192",
       "http_status": 403,
-      "final_url": "https://www.gulftalent.com/uae/jobs/head-of-compliance-money-laundering-reporting-officer-mlro-442192",
       "posted_date": "2025-01-21",
       "evidence": "JSON-LD datePosted (via www.jobaaj.com)",
       "approximate": false,
@@ -240,7 +230,6 @@
       "location": "Dubai (DIFC)",
       "url": "https://www.jobaaj.com/job/mayfair-partners-head-of-compliance-mlro-dubai-dubai-united-arab-emirates-10-to-15-years-378475",
       "http_status": 200,
-      "final_url": "https://www.jobaaj.com/job/mayfair-partners-head-of-compliance-mlro-dubai-dubai-united-arab-emirates-10-to-15-years-378475",
       "posted_date": "2024-02-23",
       "evidence": "JSON-LD datePosted",
       "approximate": false,
@@ -255,7 +244,6 @@
       "location": "Dubai",
       "url": "https://jobs.lever.co/capital/f5755f96-aa8d-4f52-8235-9dbab3ffe5ad",
       "http_status": 200,
-      "final_url": "https://jobs.lever.co/capital/f5755f96-aa8d-4f52-8235-9dbab3ffe5ad",
       "posted_date": "2026-05-07",
       "evidence": "JSON-LD datePosted",
       "approximate": false,
@@ -270,14 +258,12 @@
       "location": "Dubai",
       "url": "https://jobs.ashbyhq.com/airwallex/7f202d9f-50e9-4935-a444-8052985581d6",
       "http_status": 200,
-      "final_url": "https://jobs.ashbyhq.com/airwallex/7f202d9f-50e9-4935-a444-8052985581d6",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
-      "verdict": "remove-undated",
+      "verdict": "dead",
       "notes": [
-        "Ashby API: job id not on live board (likely closed)",
-        "no UAE location token found in page text"
+        "jobs.ashbyhq.com: dead/expired (HTTP 200)"
       ]
     },
     {
@@ -287,13 +273,12 @@
       "location": "Dubai",
       "url": "https://www.jamesonlegal.com/jobs/group-head-of-compliance-dubai",
       "http_status": 404,
-      "final_url": "https://www.jamesonlegal.com/jobs/group-head-of-compliance-dubai",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
       "verdict": "dead",
       "notes": [
-        "HTTP 404 - posting removed"
+        "www.jamesonlegal.com: dead/expired (HTTP 404)"
       ]
     },
     {
@@ -303,14 +288,12 @@
       "location": "UAE",
       "url": "https://www.barclaysimpson.com/job/chief-compliance-officer-jobid-cbm48160",
       "http_status": 404,
-      "final_url": "https://www.barclaysimpson.com/job/chief-compliance-officer-jobid-cbm48160",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
       "verdict": "dead",
       "notes": [
-        "HTTP 404 - posting removed",
-        "no UAE location token found in page text"
+        "www.barclaysimpson.com: dead/expired (HTTP 404)"
       ]
     },
     {
@@ -320,14 +303,12 @@
       "location": "Dubai",
       "url": "https://www.barclaysimpson.com/job/regulatory-compliance-manager-2/",
       "http_status": 404,
-      "final_url": "https://www.barclaysimpson.com/job/regulatory-compliance-manager-2/",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
       "verdict": "dead",
       "notes": [
-        "HTTP 404 - posting removed",
-        "no UAE location token found in page text"
+        "www.barclaysimpson.com: dead/expired (HTTP 404)"
       ]
     },
     {
@@ -337,7 +318,6 @@
       "location": "Dubai",
       "url": "https://www.gulftalent.com/uae/jobs/compliance-manager-mlro-officer-394374",
       "http_status": 403,
-      "final_url": "https://www.gulftalent.com/uae/jobs/compliance-manager-mlro-officer-394374",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
@@ -351,7 +331,6 @@
       "location": "Dubai",
       "url": "https://careers.lmax.com/job-openings/",
       "http_status": 200,
-      "final_url": "https://careers.lmax.com/job-openings/",
       "posted_date": null,
       "evidence": null,
       "approximate": false,
@@ -364,14 +343,13 @@
       "company": "Halian (DFSA payments client)",
       "location": "Dubai",
       "url": "https://www.bayt.com/en/uae/jobs/head-of-compliance-mlro-m-f-d-74429976/",
-      "http_status": 403,
-      "final_url": "https://www.bayt.com/en/uae/jobs/head-of-compliance-mlro-m-f-d-74429976/",
+      "http_status": 410,
       "posted_date": null,
       "evidence": null,
       "approximate": false,
-      "verdict": "remove-undated",
+      "verdict": "dead",
       "notes": [
-        "no UAE location token found in page text"
+        "www.bayt.com: dead/expired (HTTP 410)"
       ]
     },
     {
@@ -380,126 +358,24 @@
       "company": "JTC Group",
       "location": "Dubai (DIFC)",
       "url": "https://www.efinancialcareers.com/jobs/director-compliance-officer-mlro/in-dubai",
-      "http_status": 403,
-      "final_url": "https://www.efinancialcareers.com/jobs/director-compliance-officer-mlro/in-dubai",
-      "posted_date": null,
-      "evidence": null,
-      "approximate": false,
-      "verdict": "remove-undated",
-      "notes": [
-        "no UAE location token found in page text"
-      ]
-    }
-  ],
-  "sweep_hits": [
-    {
-      "company": "bybit",
-      "title": "Lead Compliance Operations Specialist",
-      "location": "Abu Dhabi, UAE",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4931931101",
-      "posted_date": "2026-08-06",
-      "evidence": "Greenhouse API first_published",
-      "in_window": false,
-      "age_days": 23
-    },
-    {
-      "company": "bybit",
-      "title": "MLRO & Compliance Officer, UAE (ADGM) - Broker Dealer Entity",
-      "location": "Abu Dhabi, UAE",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4904748101",
-      "posted_date": "2026-06-22",
-      "evidence": "Greenhouse API first_published",
-      "in_window": false,
-      "age_days": 69
-    },
-    {
-      "company": "bybit",
-      "title": "MLRO & Compliance Officer, UAE (ADGM) - Broker Dealer Entity",
-      "location": "Abu Dhabi, UAE",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882378101",
-      "posted_date": "2026-06-22",
-      "evidence": "Greenhouse API first_published",
-      "in_window": false,
-      "age_days": 69
-    },
-    {
-      "company": "bybit",
-      "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH",
-      "location": "Abu Dhabi, UAE",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932856101",
-      "posted_date": "2026-07-20",
-      "evidence": "Greenhouse API first_published",
-      "in_window": false,
-      "age_days": 40
-    },
-    {
-      "company": "bybit",
-      "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH",
-      "location": "Abu Dhabi, UAE",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932857101",
-      "posted_date": "2026-07-20",
-      "evidence": "Greenhouse API first_published",
-      "in_window": false,
-      "age_days": 40
-    },
-    {
-      "company": "bybit",
-      "title": "Quality Assurance Director, Legal & Compliance",
-      "location": "Abu Dhabi, UAE",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4878045101",
+      "http_status": 200,
       "posted_date": "2026-06-04",
-      "evidence": "Greenhouse API first_published",
-      "in_window": false,
+      "evidence": "embedded postedDate",
+      "approximate": false,
+      "verdict": "remove-out-of-window",
+      "notes": [],
       "age_days": 87
     }
   ],
-  "sweep_log": [
-    "[greenhouse] bybit: ok (136 jobs)",
-    "[greenhouse] stripe: ok (574 jobs)",
-    "[greenhouse] okx: ok (341 jobs)",
-    "[greenhouse] ripple: ok (128 jobs)",
-    "[greenhouse] circle: HTTP 404",
-    "[greenhouse] chainalysis: HTTP 404",
-    "[greenhouse] fireblocks: ok (69 jobs)",
-    "[greenhouse] paxos: HTTP 404",
-    "[greenhouse] gemini: ok (39 jobs)",
-    "[greenhouse] deel: HTTP 404",
-    "[greenhouse] anchorage: HTTP 404",
-    "[greenhouse] consensys: ok (5 jobs)",
-    "[greenhouse] krakenfx: HTTP 404",
-    "[greenhouse] bitgo: ok (39 jobs)",
-    "[greenhouse] figure: ok (15 jobs)",
-    "[greenhouse] wintermute: HTTP 404",
-    "[greenhouse] copperco: ok (3 jobs)",
-    "[greenhouse] cryptocom: HTTP 404",
-    "[lever] capital: ok (36 jobs)",
-    "[lever] ledger: ok (1 jobs)",
-    "[lever] bitpanda: HTTP 404",
-    "[lever] nium: ok (41 jobs)",
-    "[lever] matchmove: HTTP 404",
-    "[lever] rain: HTTP 404",
-    "[lever] sarwa: HTTP 404",
-    "[ashby] LeanTech: ok (4 jobs)",
-    "[ashby] airwallex: ok (607 jobs)",
-    "[ashby] deribit: HTTP 404",
-    "[ashby] tabby: HTTP 404",
-    "[ashby] ziina: ok (15 jobs)",
-    "[ashby] mamo: HTTP 404",
-    "[ashby] fuze: HTTP 404",
-    "[ashby] zodia: HTTP 404",
-    "[ashby] keyrock: ok (9 jobs)",
-    "[ashby] flowdesk: HTTP 404",
-    "[smartrecruiters] Wise: ok (100 jobs)",
-    "[smartrecruiters] FirstAbuDhabiBank: ok (0 jobs)",
-    "[smartrecruiters] Etihad: ok (0 jobs)",
-    "[smartrecruiters] Emiratesnbd: ok (0 jobs)",
-    "[smartrecruiters] Mashreq: ok (0 jobs)",
-    "[smartrecruiters] adib: ok (0 jobs)",
-    "[smartrecruiters] Talabat: ok (0 jobs)",
-    "[smartrecruiters] Careem: ok (0 jobs)",
-    "[workable] bitoasis: ok (0 jobs)",
-    "[workable] tap-payments: HTTP 404",
-    "[workable] hubpay: ok (0 jobs)",
-    "[workable] wio: ok (0 jobs)"
+  "discovered": [],
+  "discovery_log": [
+    "bayt-mlro: FAILED (status=403, http error)",
+    "bayt-head-compliance: FAILED (status=403, http error)",
+    "bayt-financial-crime: FAILED (status=403, http error)",
+    "bayt-head-aml: FAILED (status=403, http error)",
+    "gulftalent-compliance: FAILED (status=403, http error)",
+    "gulftalent-search: FAILED (status=403, http error)",
+    "naukrigulf-compliance: FAILED (status=None, Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.naukrigulf.com/compliance-jobs-in-uae\nCall log:\n  - navigating t)",
+    "efc-uae: FAILED (status=403, http error)"
   ]
 }
