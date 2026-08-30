@@ -1,0 +1,46 @@
+name: Enterprise ATS sweep
+
+on:
+  workflow_dispatch:
+    inputs:
+      window_days:
+        required: false
+        default: "7"
+  push:
+    paths:
+      - "scripts/enterprise_sweep.py"
+      - ".github/workflows/enterprise-sweep.yml"
+  schedule:
+    - cron: "0 4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  enterprise:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Query enterprise ATS tenants
+        env:
+          WINDOW_DAYS: ${{ github.event.inputs.window_days || '7' }}
+        run: python scripts/enterprise_sweep.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: enterprise-sweep-results
+          path: data/enterprise_sweep_results.json
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/enterprise_sweep_results.json
+          git diff --staged --quiet || git commit -m "Enterprise sweep results [skip ci]"
+          git pull --rebase --autostash || true
+          git push
