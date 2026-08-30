@@ -1,0 +1,50 @@
+{
+  "run_utc": "2026-08-30T15:55:21.464808+00:00",
+  "cutoff": "2026-08-23",
+  "window_days": 7,
+  "hits": [
+    {
+      "platform": "oracle-hcm",
+      "employer": "RAKBank",
+      "title": "Senior Compliance Officer - Quality Assurance Compliance",
+      "location": "United Arab Emirates",
+      "url": "https://iacqey.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/523",
+      "posted_date": "2026-08-19",
+      "evidence": "Oracle HCM PostedDate",
+      "in_window": false,
+      "age_days": 11
+    },
+    {
+      "platform": "oracle-hcm",
+      "employer": "RAKBank",
+      "title": "Senior Compliance Officer - Compliance Projects, Systems & Data (Emiratization)",
+      "location": "United Arab Emirates",
+      "url": "https://iacqey.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/537",
+      "posted_date": "2026-08-17",
+      "evidence": "Oracle HCM PostedDate",
+      "in_window": false,
+      "age_days": 13
+    }
+  ],
+  "log": [
+    "[oracle-hcm] Emirates NBD (CX_1): 26 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] RAKBank (CX_1): 65 reqs listed, 2 UAE compliance",
+    "[oracle-hcm] ADGM (CX_1): 26 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] Dubai Multi Commodities Centre (CX_1001): 1 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] Emaar (CX_1001): 8 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] DP World (CX_1): 200 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] JPMorgan (CX_1001): 200 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 98 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] Abu Dhabi Islamic Bank: no reachable site endpoint",
+    "[oracle-hcm] Mashreq: no reachable site endpoint",
+    "[successfactors] Pictet: page ok, 0 UAE compliance",
+    "[successfactors] Equiti: page ok, 0 UAE compliance",
+    "[successfactors] Abu Dhabi Commercial Bank: page ok, 0 UAE compliance",
+    "[taleo] Societe Generale: ok, 0 UAE compliance",
+    "[avature] Emirates Group: no reachable search page",
+    "[eightfold] Citi: HTTP 403",
+    "[phenom] DAMAC: no reachable API",
+    "[phenom] Majid Al Futtaim: no reachable API",
+    "[phenom] G42: no reachable API"
+  ]
+}
