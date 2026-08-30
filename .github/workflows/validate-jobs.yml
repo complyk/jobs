@@ -11,6 +11,7 @@ on:
     paths:
       - "data/candidates.json"
       - "scripts/validate_jobs.py"
+      - "scripts/browser_validate.py"
       - ".github/workflows/validate-jobs.yml"
 
 permissions:
@@ -19,6 +20,7 @@ permissions:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -26,22 +28,28 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install requests
+      - name: Install dependencies
+        run: |
+          pip install requests playwright
+          playwright install --with-deps chromium
 
-      - name: Validate candidates and sweep ATS boards
+      - name: Browser validation and board discovery
         env:
           WINDOW_DAYS: ${{ github.event.inputs.window_days || '7' }}
-        run: python scripts/validate_jobs.py
+        run: python scripts/browser_validate.py
 
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: validation-results
           path: data/validation_results.json
 
       - name: Commit results
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/validation_results.json
-          git diff --staged --quiet || git commit -m "Validation results [skip ci]"
+          git diff --staged --quiet || git commit -m "Browser validation results [skip ci]"
+          git pull --rebase --autostash || true
           git push
