@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-09-05T07:53:27.109473+00:00",
+  "run_utc": "2026-09-06T08:10:09.513092+00:00",
   "window_days": 7,
-  "cutoff": "2026-08-29",
+  "cutoff": "2026-08-30",
   "hits": [
     {
       "source": "greenhouse",
@@ -12,7 +12,7 @@
       "posted_date": "2026-09-04",
       "evidence": "Greenhouse first_published",
       "in_window": true,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "source": "greenhouse",
@@ -23,18 +23,7 @@
       "posted_date": "2026-07-23",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 43
-    },
-    {
-      "source": "greenhouse",
-      "company": "bybit",
-      "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH",
-      "location": "Abu Dhabi, UAE",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932857101",
-      "posted_date": "2026-07-20",
-      "evidence": "Greenhouse first_published",
-      "in_window": false,
-      "age_days": 46
+      "age_days": 44
     },
     {
       "source": "greenhouse",
@@ -45,7 +34,18 @@
       "posted_date": "2026-07-20",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 46
+      "age_days": 47
+    },
+    {
+      "source": "greenhouse",
+      "company": "bybit",
+      "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH",
+      "location": "Abu Dhabi, UAE",
+      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932857101",
+      "posted_date": "2026-07-20",
+      "evidence": "Greenhouse first_published",
+      "in_window": false,
+      "age_days": 47
     },
     {
       "source": "greenhouse",
@@ -56,7 +56,7 @@
       "posted_date": "2026-06-22",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 74
+      "age_days": 75
     },
     {
       "source": "greenhouse",
@@ -67,7 +67,7 @@
       "posted_date": "2026-06-22",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 74
+      "age_days": 75
     },
     {
       "source": "greenhouse",
@@ -78,7 +78,7 @@
       "posted_date": "2025-10-16",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 323
+      "age_days": 324
     },
     {
       "source": "workday",
@@ -146,7 +146,7 @@
     "[greenhouse] bingx: HTTP 404",
     "[greenhouse] bitget: HTTP 404",
     "[greenhouse] bitgo: ok (40 jobs, 0 UAE)",
-    "[greenhouse] bybit: ok (139 jobs, 57 UAE)",
+    "[greenhouse] bybit: ok (138 jobs, 57 UAE)",
     "[greenhouse] capitalcom: HTTP 404",
     "[greenhouse] careemtech: HTTP 404",
     "[greenhouse] chainalysis: HTTP 404",
@@ -162,7 +162,7 @@
     "[greenhouse] du-telecom: HTTP 404",
     "[greenhouse] dubizzle: HTTP 404",
     "[greenhouse] e-and: HTTP 404",
-    "[greenhouse] ebury: ok (171 jobs, 1 UAE)",
+    "[greenhouse] ebury: ok (173 jobs, 1 UAE)",
     "[greenhouse] emiratesnbdgroup: HTTP 404",
     "[greenhouse] etisalat: HTTP 404",
     "[greenhouse] exness: HTTP 404",
@@ -220,7 +220,7 @@
     "[greenhouse] shuaacapital: HTTP 404",
     "[greenhouse] space42: HTTP 404",
     "[greenhouse] stashaway: HTTP 404",
-    "[greenhouse] stripe: ok (614 jobs, 1 UAE)",
+    "[greenhouse] stripe: ok (615 jobs, 1 UAE)",
     "[greenhouse] swissquote: HTTP 404",
     "[greenhouse] swvl: HTTP 404",
     "[greenhouse] tabby: HTTP 404",
@@ -318,7 +318,7 @@
     "[workday] baml/BankofAmerica: no reachable endpoint",
     "[workday] barclays/External: no reachable endpoint",
     "[workday] citi/2: ok (20 jobs, 1 UAE)",
-    "[workday] db/DBWebsite: no reachable endpoint",
+    "[workday] db/DBWebsite: ok (20 jobs, 1 UAE)",
     "[workday] gs/Goldman: no reachable endpoint",
     "[workday] hsbc/External: no reachable endpoint",
     "[workday] jpmc/jpmc: no reachable endpoint",
@@ -327,7 +327,7 @@
     "[workday] mastercard/CorporateCareers: ok (20 jobs, 1 UAE)",
     "[workday] mufg/MUFG: no reachable endpoint",
     "[workday] natwest/NatWest: no reachable endpoint",
-    "[workday] pwc/Global_Experienced_Careers: no reachable endpoint",
+    "[workday] pwc/Global_Experienced_Careers: ok (20 jobs, 0 UAE)",
     "[workday] standardchartered/Careers: no reachable endpoint",
     "[workday] ubs/UBSCareers: no reachable endpoint",
     "[workday] visa/Visa_External: no reachable endpoint"
