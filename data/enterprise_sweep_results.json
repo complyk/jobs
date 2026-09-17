@@ -1,6 +1,6 @@
 {
-  "run_utc": "2026-09-16T08:58:19.403627+00:00",
-  "cutoff": "2026-09-09",
+  "run_utc": "2026-09-17T09:04:06.150638+00:00",
+  "cutoff": "2026-09-10",
   "window_days": 7,
   "hits": [
     {
@@ -12,7 +12,7 @@
       "posted_date": "2026-09-15",
       "evidence": "Oracle HCM PostedDate",
       "in_window": true,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "platform": "oracle-hcm",
@@ -23,18 +23,18 @@
       "posted_date": "2026-08-19",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 28
+      "age_days": 29
     }
   ],
   "log": [
-    "[oracle-hcm] Emirates NBD (CX_1): 20 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] Emirates NBD (CX_1): 22 reqs listed, 0 UAE compliance",
     "[oracle-hcm] RAKBank (CX_1): 75 reqs listed, 1 UAE compliance",
     "[oracle-hcm] ADGM (CX_1): 22 reqs listed, 0 UAE compliance",
     "[oracle-hcm] Dubai Multi Commodities Centre (CX_1001): 1 reqs listed, 0 UAE compliance",
     "[oracle-hcm] Emaar (CX_1001): 6 reqs listed, 0 UAE compliance",
     "[oracle-hcm] DP World (CX_1): 200 reqs listed, 0 UAE compliance",
     "[oracle-hcm] JPMorgan (CX_1001): 200 reqs listed, 0 UAE compliance",
-    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 115 reqs listed, 1 UAE compliance",
+    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 116 reqs listed, 1 UAE compliance",
     "[oracle-hcm] Abu Dhabi Islamic Bank: no reachable site endpoint",
     "[oracle-hcm] Mashreq: no reachable site endpoint",
     "[successfactors] Pictet: page ok, 0 UAE compliance",
