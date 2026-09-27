@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-09-26T08:52:07.121316+00:00",
+  "run_utc": "2026-09-27T09:35:23.018496+00:00",
   "window_days": 7,
-  "cutoff": "2026-09-19",
+  "cutoff": "2026-09-20",
   "hits": [
     {
       "source": "greenhouse",
@@ -12,7 +12,7 @@
       "posted_date": "2026-09-04",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 21
+      "age_days": 22
     },
     {
       "source": "greenhouse",
@@ -23,18 +23,7 @@
       "posted_date": "2026-07-23",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 64
-    },
-    {
-      "source": "greenhouse",
-      "company": "bybit",
-      "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH",
-      "location": "Abu Dhabi, UAE",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932856101",
-      "posted_date": "2026-07-20",
-      "evidence": "Greenhouse first_published",
-      "in_window": false,
-      "age_days": 67
+      "age_days": 65
     },
     {
       "source": "greenhouse",
@@ -45,7 +34,18 @@
       "posted_date": "2026-07-20",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 67
+      "age_days": 68
+    },
+    {
+      "source": "greenhouse",
+      "company": "bybit",
+      "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH",
+      "location": "Abu Dhabi, UAE",
+      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932856101",
+      "posted_date": "2026-07-20",
+      "evidence": "Greenhouse first_published",
+      "in_window": false,
+      "age_days": 68
     },
     {
       "source": "greenhouse",
@@ -56,7 +56,7 @@
       "posted_date": "2026-06-15",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 103
+      "age_days": 104
     },
     {
       "source": "greenhouse",
@@ -67,7 +67,7 @@
       "posted_date": "2025-10-16",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 345
+      "age_days": 346
     }
   ],
   "log": [
@@ -92,7 +92,7 @@
     "[ashby] nymcard: HTTP 404",
     "[ashby] onfido: HTTP 404",
     "[ashby] persona: ok (16 jobs, 0 UAE)",
-    "[ashby] ramp: ok (157 jobs, 0 UAE)",
+    "[ashby] ramp: ok (158 jobs, 0 UAE)",
     "[ashby] ripio: HTTP 404",
     "[ashby] sardine: ok (39 jobs, 1 UAE)",
     "[ashby] socure: ok (77 jobs, 0 UAE)",
@@ -191,19 +191,19 @@
     "[greenhouse] rakbankuae: HTTP 404",
     "[greenhouse] rapyd: HTTP 404",
     "[greenhouse] remitly: HTTP 404",
-    "[greenhouse] remotecom: ok (164 jobs, 0 UAE)",
+    "[greenhouse] remotecom: ok (165 jobs, 0 UAE)",
     "[greenhouse] ripplelabs: HTTP 404",
     "[greenhouse] sarwa: HTTP 404",
     "[greenhouse] saxobank: HTTP 404",
     "[greenhouse] shuaacapital: HTTP 404",
     "[greenhouse] space42: HTTP 404",
     "[greenhouse] stashaway: HTTP 404",
-    "[greenhouse] stripe: ok (703 jobs, 0 UAE)",
+    "[greenhouse] stripe: ok (702 jobs, 0 UAE)",
     "[greenhouse] swissquote: HTTP 404",
     "[greenhouse] swvl: HTTP 404",
     "[greenhouse] tabby: HTTP 404",
     "[greenhouse] talabat: HTTP 404",
-    "[greenhouse] tamara: ok (30 jobs, 10 UAE)",
+    "[greenhouse] tamara: ok (31 jobs, 11 UAE)",
     "[greenhouse] telr: HTTP 404",
     "[greenhouse] thinkmarkets: ok (5 jobs, 1 UAE)",
     "[greenhouse] thunes: ok (46 jobs, 0 UAE)",
