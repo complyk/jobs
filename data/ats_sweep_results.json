@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-09-29T10:10:57.533682+00:00",
+  "run_utc": "2026-09-30T10:02:52.657504+00:00",
   "window_days": 7,
-  "cutoff": "2026-09-22",
+  "cutoff": "2026-09-23",
   "hits": [
     {
       "source": "greenhouse",
@@ -12,7 +12,7 @@
       "posted_date": "2026-09-04",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 24
+      "age_days": 25
     },
     {
       "source": "greenhouse",
@@ -23,18 +23,7 @@
       "posted_date": "2026-07-23",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 67
-    },
-    {
-      "source": "greenhouse",
-      "company": "bybit",
-      "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH",
-      "location": "Abu Dhabi, UAE",
-      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932856101",
-      "posted_date": "2026-07-20",
-      "evidence": "Greenhouse first_published",
-      "in_window": false,
-      "age_days": 70
+      "age_days": 68
     },
     {
       "source": "greenhouse",
@@ -45,7 +34,18 @@
       "posted_date": "2026-07-20",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 70
+      "age_days": 71
+    },
+    {
+      "source": "greenhouse",
+      "company": "bybit",
+      "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH",
+      "location": "Abu Dhabi, UAE",
+      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932856101",
+      "posted_date": "2026-07-20",
+      "evidence": "Greenhouse first_published",
+      "in_window": false,
+      "age_days": 71
     },
     {
       "source": "greenhouse",
@@ -56,7 +56,7 @@
       "posted_date": "2026-06-15",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 106
+      "age_days": 107
     },
     {
       "source": "greenhouse",
@@ -67,12 +67,12 @@
       "posted_date": "2025-10-16",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 348
+      "age_days": 349
     }
   ],
   "log": [
     "[ashby] LeanTech: ok (3 jobs, 1 UAE)",
-    "[ashby] airwallex: ok (561 jobs, 0 UAE)",
+    "[ashby] airwallex: ok (551 jobs, 0 UAE)",
     "[ashby] alloy: HTTP 404",
     "[ashby] belo: HTTP 404",
     "[ashby] bitso: HTTP 404",
@@ -80,7 +80,7 @@
     "[ashby] buenbit: HTTP 404",
     "[ashby] chainalysis: HTTP 404",
     "[ashby] deribit: HTTP 404",
-    "[ashby] elliptic: ok (30 jobs, 0 UAE)",
+    "[ashby] elliptic: ok (27 jobs, 0 UAE)",
     "[ashby] flowdesk: HTTP 404",
     "[ashby] fuze: HTTP 404",
     "[ashby] hubpay: HTTP 404",
@@ -92,9 +92,9 @@
     "[ashby] nymcard: HTTP 404",
     "[ashby] onfido: HTTP 404",
     "[ashby] persona: ok (16 jobs, 0 UAE)",
-    "[ashby] ramp: ok (156 jobs, 0 UAE)",
+    "[ashby] ramp: ok (155 jobs, 0 UAE)",
     "[ashby] ripio: HTTP 404",
-    "[ashby] sardine: ok (36 jobs, 1 UAE)",
+    "[ashby] sardine: ok (34 jobs, 1 UAE)",
     "[ashby] socure: ok (78 jobs, 0 UAE)",
     "[ashby] sumsub: HTTP 404",
     "[ashby] tabby: HTTP 404",
@@ -123,15 +123,15 @@
     "[greenhouse] binance: ok (14 jobs, 3 UAE)",
     "[greenhouse] bingx: HTTP 404",
     "[greenhouse] bitget: HTTP 404",
-    "[greenhouse] bitgo: ok (40 jobs, 0 UAE)",
-    "[greenhouse] bybit: ok (157 jobs, 55 UAE)",
+    "[greenhouse] bitgo: ok (39 jobs, 0 UAE)",
+    "[greenhouse] bybit: ok (157 jobs, 54 UAE)",
     "[greenhouse] capitalcom: HTTP 404",
     "[greenhouse] careemtech: HTTP 404",
     "[greenhouse] chainalysis: HTTP 404",
     "[greenhouse] checkoutcom: HTTP 404",
     "[greenhouse] circleinternetfinancial: HTTP 404",
     "[greenhouse] cmcmarkets: HTTP 404",
-    "[greenhouse] coinbase: ok (208 jobs, 2 UAE)",
+    "[greenhouse] coinbase: ok (210 jobs, 3 UAE)",
     "[greenhouse] consensys: ok (7 jobs, 0 UAE)",
     "[greenhouse] copperco: ok (4 jobs, 0 UAE)",
     "[greenhouse] core42: HTTP 404",
@@ -147,7 +147,7 @@
     "[greenhouse] fabbank: HTTP 404",
     "[greenhouse] falconxbravo: HTTP 404",
     "[greenhouse] fetchr: HTTP 404",
-    "[greenhouse] fireblocks: ok (67 jobs, 4 UAE)",
+    "[greenhouse] fireblocks: ok (68 jobs, 4 UAE)",
     "[greenhouse] flowtraders: ok (47 jobs, 0 UAE)",
     "[greenhouse] fxpro: ok (6 jobs, 0 UAE)",
     "[greenhouse] g42ai: HTTP 404",
@@ -163,7 +163,7 @@
     "[greenhouse] imc: ok (171 jobs, 0 UAE)",
     "[greenhouse] interactivebrokers: HTTP 404",
     "[greenhouse] investcorp: HTTP 404",
-    "[greenhouse] keyrock: HTTP 404",
+    "[greenhouse] keyrock: ReadTimeout",
     "[greenhouse] kitopi: HTTP 404",
     "[greenhouse] krakendigitalassetexchange: HTTP 404",
     "[greenhouse] kucoin: HTTP 404",
@@ -177,11 +177,11 @@
     "[greenhouse] network-international: HTTP 404",
     "[greenhouse] nium: HTTP 404",
     "[greenhouse] noon: HTTP 404",
-    "[greenhouse] okx: ok (327 jobs, 7 UAE)",
+    "[greenhouse] okx: ok (326 jobs, 7 UAE)",
     "[greenhouse] optiver: ok (0 jobs, 0 UAE)",
     "[greenhouse] papayaglobal: HTTP 404",
     "[greenhouse] paxosglobal: HTTP 404",
-    "[greenhouse] payoneer: ok (108 jobs, 0 UAE)",
+    "[greenhouse] payoneer: ok (105 jobs, 0 UAE)",
     "[greenhouse] paysafe: HTTP 404",
     "[greenhouse] pepperstone: HTTP 404",
     "[greenhouse] pinelabs: HTTP 404",
@@ -191,14 +191,14 @@
     "[greenhouse] rakbankuae: HTTP 404",
     "[greenhouse] rapyd: HTTP 404",
     "[greenhouse] remitly: HTTP 404",
-    "[greenhouse] remotecom: ok (161 jobs, 0 UAE)",
+    "[greenhouse] remotecom: ok (119 jobs, 0 UAE)",
     "[greenhouse] ripplelabs: HTTP 404",
     "[greenhouse] sarwa: HTTP 404",
     "[greenhouse] saxobank: HTTP 404",
     "[greenhouse] shuaacapital: HTTP 404",
     "[greenhouse] space42: HTTP 404",
     "[greenhouse] stashaway: HTTP 404",
-    "[greenhouse] stripe: ok (705 jobs, 0 UAE)",
+    "[greenhouse] stripe: ok (712 jobs, 0 UAE)",
     "[greenhouse] swissquote: HTTP 404",
     "[greenhouse] swvl: HTTP 404",
     "[greenhouse] tabby: HTTP 404",
@@ -206,7 +206,7 @@
     "[greenhouse] tamara: ok (32 jobs, 12 UAE)",
     "[greenhouse] telr: HTTP 404",
     "[greenhouse] thinkmarkets: ok (5 jobs, 1 UAE)",
-    "[greenhouse] thunes: ok (46 jobs, 0 UAE)",
+    "[greenhouse] thunes: ok (48 jobs, 0 UAE)",
     "[greenhouse] tickmill: HTTP 404",
     "[greenhouse] wintermutetrading: HTTP 404",
     "[greenhouse] wioBank: HTTP 404",
@@ -218,7 +218,7 @@
     "[lever] bitfury: HTTP 404",
     "[lever] bitoasis: HTTP 404",
     "[lever] bitpanda: HTTP 404",
-    "[lever] capital: ok (49 jobs, 4 UAE)",
+    "[lever] capital: ok (53 jobs, 4 UAE)",
     "[lever] careem: HTTP 404",
     "[lever] cashew: HTTP 404",
     "[lever] complyadvantage: HTTP 404",
