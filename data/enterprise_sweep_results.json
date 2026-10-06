@@ -1,6 +1,6 @@
 {
-  "run_utc": "2026-10-05T11:03:26.477638+00:00",
-  "cutoff": "2026-09-28",
+  "run_utc": "2026-10-06T10:56:56.262572+00:00",
+  "cutoff": "2026-09-29",
   "window_days": 7,
   "hits": [
     {
@@ -12,7 +12,7 @@
       "posted_date": "2026-10-05",
       "evidence": "Oracle HCM PostedDate",
       "in_window": true,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "platform": "oracle-hcm",
@@ -23,7 +23,7 @@
       "posted_date": "2026-10-01",
       "evidence": "Oracle HCM PostedDate",
       "in_window": true,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "platform": "oracle-hcm",
@@ -34,7 +34,7 @@
       "posted_date": "2026-09-22",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "platform": "oracle-hcm",
@@ -45,18 +45,18 @@
       "posted_date": "2026-09-15",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 20
+      "age_days": 21
     }
   ],
   "log": [
-    "[oracle-hcm] Emirates NBD (CX_1): 21 reqs listed, 1 UAE compliance",
-    "[oracle-hcm] RAKBank (CX_1): 58 reqs listed, 1 UAE compliance",
+    "[oracle-hcm] Emirates NBD (CX_1): 26 reqs listed, 1 UAE compliance",
+    "[oracle-hcm] RAKBank (CX_1): 56 reqs listed, 1 UAE compliance",
     "[oracle-hcm] ADGM (CX_1): 23 reqs listed, 0 UAE compliance",
     "[oracle-hcm] Dubai Multi Commodities Centre: no reachable site endpoint",
-    "[oracle-hcm] Emaar (CX_1001): 1 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] Emaar (CX_1001): 2 reqs listed, 0 UAE compliance",
     "[oracle-hcm] DP World (CX_1): 200 reqs listed, 0 UAE compliance",
     "[oracle-hcm] JPMorgan (CX_1001): 200 reqs listed, 0 UAE compliance",
-    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 102 reqs listed, 2 UAE compliance",
+    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 114 reqs listed, 2 UAE compliance",
     "[oracle-hcm] Abu Dhabi Islamic Bank: no reachable site endpoint",
     "[oracle-hcm] Mashreq: no reachable site endpoint",
     "[successfactors] Pictet: page ok, 0 UAE compliance",
