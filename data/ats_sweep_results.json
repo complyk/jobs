@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-10-10T10:10:27.777783+00:00",
+  "run_utc": "2026-10-11T10:22:26.623022+00:00",
   "window_days": 7,
-  "cutoff": "2026-10-03",
+  "cutoff": "2026-10-04",
   "hits": [
     {
       "source": "greenhouse",
@@ -12,7 +12,7 @@
       "posted_date": "2026-10-06",
       "evidence": "Greenhouse first_published",
       "in_window": true,
-      "age_days": 3
+      "age_days": 4
     },
     {
       "source": "lever",
@@ -23,7 +23,7 @@
       "posted_date": "2026-10-05",
       "evidence": "Lever createdAt",
       "in_window": true,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "source": "greenhouse",
@@ -34,7 +34,7 @@
       "posted_date": "2026-10-01",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 8
+      "age_days": 10
     },
     {
       "source": "greenhouse",
@@ -45,7 +45,7 @@
       "posted_date": "2026-09-04",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 35
+      "age_days": 36
     },
     {
       "source": "greenhouse",
@@ -56,7 +56,7 @@
       "posted_date": "2026-06-15",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 117
+      "age_days": 118
     },
     {
       "source": "workday",
@@ -181,7 +181,7 @@
     "[greenhouse] optiver: ok (0 jobs, 0 UAE)",
     "[greenhouse] papayaglobal: HTTP 404",
     "[greenhouse] paxosglobal: HTTP 404",
-    "[greenhouse] payoneer: ok (102 jobs, 0 UAE)",
+    "[greenhouse] payoneer: ok (103 jobs, 0 UAE)",
     "[greenhouse] paysafe: HTTP 404",
     "[greenhouse] pepperstone: HTTP 404",
     "[greenhouse] pinelabs: HTTP 404",
@@ -203,10 +203,10 @@
     "[greenhouse] swvl: HTTP 404",
     "[greenhouse] tabby: HTTP 404",
     "[greenhouse] talabat: HTTP 404",
-    "[greenhouse] tamara: ok (35 jobs, 12 UAE)",
+    "[greenhouse] tamara: ok (37 jobs, 14 UAE)",
     "[greenhouse] telr: HTTP 404",
     "[greenhouse] thinkmarkets: ok (4 jobs, 0 UAE)",
-    "[greenhouse] thunes: ok (44 jobs, 0 UAE)",
+    "[greenhouse] thunes: ok (47 jobs, 0 UAE)",
     "[greenhouse] tickmill: HTTP 404",
     "[greenhouse] wintermutetrading: HTTP 404",
     "[greenhouse] wioBank: HTTP 404",
