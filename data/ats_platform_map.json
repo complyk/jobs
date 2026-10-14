@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-10-13T11:38:06.379877+00:00",
+  "run_utc": "2026-10-14T09:25:00.247048+00:00",
   "employers": {
     "Accenture": [
       {
@@ -31,14 +31,14 @@
         "platform": "greenhouse-embed",
         "slug": "adyen",
         "url": "https://api.greenhouse.io/v1/boards/adyen/embed/jobs",
-        "total_jobs": 245,
+        "total_jobs": 237,
         "uae_compliance_hits": 0
       },
       {
         "platform": "greenhouse",
         "slug": "adyen",
         "url": "https://boards-api.greenhouse.io/v1/boards/adyen/jobs",
-        "total_jobs": 245,
+        "total_jobs": 237,
         "uae_compliance_hits": 0
       }
     ],
@@ -47,14 +47,14 @@
         "platform": "greenhouse-embed",
         "slug": "air",
         "url": "https://api.greenhouse.io/v1/boards/air/embed/jobs",
-        "total_jobs": 38,
+        "total_jobs": 37,
         "uae_compliance_hits": 0
       },
       {
         "platform": "greenhouse",
         "slug": "air",
         "url": "https://boards-api.greenhouse.io/v1/boards/air/jobs",
-        "total_jobs": 38,
+        "total_jobs": 37,
         "uae_compliance_hits": 0
       }
     ],
@@ -63,7 +63,7 @@
         "platform": "ashby",
         "slug": "airwallex",
         "url": "https://api.ashbyhq.com/posting-api/job-board/airwallex",
-        "total_jobs": 505,
+        "total_jobs": 503,
         "uae_compliance_hits": 0
       }
     ],
@@ -103,10 +103,10 @@
     ],
     "Amber Group": [
       {
-        "platform": "ashby",
-        "slug": "amber",
-        "url": "https://api.ashbyhq.com/posting-api/job-board/amber",
-        "total_jobs": 21,
+        "platform": "lever",
+        "slug": "ambergroup",
+        "url": "https://api.lever.co/v0/postings/ambergroup?mode=json",
+        "total_jobs": 3,
         "uae_compliance_hits": 0
       },
       {
@@ -117,10 +117,10 @@
         "uae_compliance_hits": 0
       },
       {
-        "platform": "lever",
-        "slug": "ambergroup",
-        "url": "https://api.lever.co/v0/postings/ambergroup?mode=json",
-        "total_jobs": 3,
+        "platform": "ashby",
+        "slug": "amber",
+        "url": "https://api.ashbyhq.com/posting-api/job-board/amber",
+        "total_jobs": 21,
         "uae_compliance_hits": 0
       }
     ],
@@ -204,7 +204,7 @@
         "platform": "recruitee",
         "slug": "bakertilly",
         "url": "https://bakertilly.recruitee.com/api/offers/",
-        "total_jobs": 129,
+        "total_jobs": 127,
         "uae_compliance_hits": 0
       },
       {
@@ -226,24 +226,10 @@
     ],
     "Binance": [
       {
-        "platform": "greenhouse",
-        "slug": "binance",
-        "url": "https://boards-api.greenhouse.io/v1/boards/binance/jobs",
-        "total_jobs": 12,
-        "uae_compliance_hits": 0
-      },
-      {
         "platform": "greenhouse-embed",
         "slug": "binance",
         "url": "https://api.greenhouse.io/v1/boards/binance/embed/jobs",
-        "total_jobs": 12,
-        "uae_compliance_hits": 0
-      },
-      {
-        "platform": "lever",
-        "slug": "binance",
-        "url": "https://api.lever.co/v0/postings/binance?mode=json",
-        "total_jobs": 33,
+        "total_jobs": 142,
         "uae_compliance_hits": 1
       },
       {
@@ -252,20 +238,34 @@
         "url": "https://api.smartrecruiters.com/v1/companies/binance/postings?limit=100",
         "total_jobs": 4,
         "uae_compliance_hits": 0
+      },
+      {
+        "platform": "greenhouse",
+        "slug": "binance",
+        "url": "https://boards-api.greenhouse.io/v1/boards/binance/jobs",
+        "total_jobs": 142,
+        "uae_compliance_hits": 1
+      },
+      {
+        "platform": "lever",
+        "slug": "binance",
+        "url": "https://api.lever.co/v0/postings/binance?mode=json",
+        "total_jobs": 33,
+        "uae_compliance_hits": 1
       }
     ],
     "BitGo": [
       {
-        "platform": "greenhouse",
+        "platform": "greenhouse-embed",
         "slug": "bitgo",
-        "url": "https://boards-api.greenhouse.io/v1/boards/bitgo/jobs",
+        "url": "https://api.greenhouse.io/v1/boards/bitgo/embed/jobs",
         "total_jobs": 52,
         "uae_compliance_hits": 0
       },
       {
-        "platform": "greenhouse-embed",
+        "platform": "greenhouse",
         "slug": "bitgo",
-        "url": "https://api.greenhouse.io/v1/boards/bitgo/embed/jobs",
+        "url": "https://boards-api.greenhouse.io/v1/boards/bitgo/jobs",
         "total_jobs": 52,
         "uae_compliance_hits": 0
       }
@@ -284,14 +284,14 @@
         "platform": "greenhouse",
         "slug": "bitpanda",
         "url": "https://boards-api.greenhouse.io/v1/boards/bitpanda/jobs",
-        "total_jobs": 28,
+        "total_jobs": 31,
         "uae_compliance_hits": 0
       },
       {
         "platform": "greenhouse-embed",
         "slug": "bitpanda",
         "url": "https://api.greenhouse.io/v1/boards/bitpanda/embed/jobs",
-        "total_jobs": 28,
+        "total_jobs": 31,
         "uae_compliance_hits": 0
       }
     ],
@@ -306,17 +306,17 @@
     ],
     "Bybit": [
       {
-        "platform": "greenhouse-embed",
-        "slug": "bybit",
-        "url": "https://api.greenhouse.io/v1/boards/bybit/embed/jobs",
-        "total_jobs": 158,
-        "uae_compliance_hits": 5
-      },
-      {
         "platform": "greenhouse",
         "slug": "bybit",
         "url": "https://boards-api.greenhouse.io/v1/boards/bybit/jobs",
-        "total_jobs": 158,
+        "total_jobs": 160,
+        "uae_compliance_hits": 5
+      },
+      {
+        "platform": "greenhouse-embed",
+        "slug": "bybit",
+        "url": "https://api.greenhouse.io/v1/boards/bybit/embed/jobs",
+        "total_jobs": 160,
         "uae_compliance_hits": 5
       }
     ],
@@ -357,7 +357,7 @@
         "platform": "ashby",
         "slug": "circle",
         "url": "https://api.ashbyhq.com/posting-api/job-board/circle",
-        "total_jobs": 32,
+        "total_jobs": 8,
         "uae_compliance_hits": 0
       }
     ],
@@ -366,14 +366,14 @@
         "platform": "greenhouse-embed",
         "slug": "coinbase",
         "url": "https://api.greenhouse.io/v1/boards/coinbase/embed/jobs",
-        "total_jobs": 225,
+        "total_jobs": 226,
         "uae_compliance_hits": 1
       },
       {
         "platform": "greenhouse",
         "slug": "coinbase",
         "url": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs",
-        "total_jobs": 225,
+        "total_jobs": 226,
         "uae_compliance_hits": 1
       }
     ],
@@ -416,23 +416,16 @@
         "platform": "bamboohr",
         "slug": "crowe",
         "url": "https://crowe.bamboohr.com/careers/list",
-        "total_jobs": 5,
+        "total_jobs": 6,
         "uae_compliance_hits": 0
       }
     ],
     "Crypto Finance": [
       {
-        "platform": "workable-widget",
-        "slug": "crypto-finance",
-        "url": "https://apply.workable.com/api/v1/widget/accounts/crypto-finance?details=true",
-        "total_jobs": 7,
-        "uae_compliance_hits": 0
-      },
-      {
         "platform": "lever",
         "slug": "crypto",
         "url": "https://api.lever.co/v0/postings/crypto?mode=json",
-        "total_jobs": 84,
+        "total_jobs": 87,
         "uae_compliance_hits": 1
       }
     ],
@@ -454,24 +447,24 @@
     ],
     "Deliveroo": [
       {
+        "platform": "greenhouse-embed",
+        "slug": "deliveroo",
+        "url": "https://api.greenhouse.io/v1/boards/deliveroo/embed/jobs",
+        "total_jobs": 220,
+        "uae_compliance_hits": 0
+      },
+      {
         "platform": "ashby",
         "slug": "deliveroo",
         "url": "https://api.ashbyhq.com/posting-api/job-board/deliveroo",
-        "total_jobs": 9,
+        "total_jobs": 10,
         "uae_compliance_hits": 0
       },
       {
         "platform": "greenhouse",
         "slug": "deliveroo",
         "url": "https://boards-api.greenhouse.io/v1/boards/deliveroo/jobs",
-        "total_jobs": 211,
-        "uae_compliance_hits": 0
-      },
-      {
-        "platform": "greenhouse-embed",
-        "slug": "deliveroo",
-        "url": "https://api.greenhouse.io/v1/boards/deliveroo/embed/jobs",
-        "total_jobs": 211,
+        "total_jobs": 220,
         "uae_compliance_hits": 0
       }
     ],
@@ -489,14 +482,14 @@
         "platform": "greenhouse",
         "slug": "ebury",
         "url": "https://boards-api.greenhouse.io/v1/boards/ebury/jobs",
-        "total_jobs": 148,
+        "total_jobs": 150,
         "uae_compliance_hits": 0
       },
       {
         "platform": "greenhouse-embed",
         "slug": "ebury",
         "url": "https://api.greenhouse.io/v1/boards/ebury/embed/jobs",
-        "total_jobs": 148,
+        "total_jobs": 150,
         "uae_compliance_hits": 0
       },
       {
@@ -521,14 +514,14 @@
         "platform": "greenhouse",
         "slug": "falconx",
         "url": "https://boards-api.greenhouse.io/v1/boards/falconx/jobs",
-        "total_jobs": 15,
+        "total_jobs": 17,
         "uae_compliance_hits": 0
       },
       {
         "platform": "greenhouse-embed",
         "slug": "falconx",
         "url": "https://api.greenhouse.io/v1/boards/falconx/embed/jobs",
-        "total_jobs": 15,
+        "total_jobs": 17,
         "uae_compliance_hits": 0
       }
     ],
@@ -566,16 +559,16 @@
     ],
     "Flowdesk": [
       {
-        "platform": "greenhouse",
+        "platform": "greenhouse-embed",
         "slug": "flowdesk",
-        "url": "https://boards-api.greenhouse.io/v1/boards/flowdesk/jobs",
+        "url": "https://api.greenhouse.io/v1/boards/flowdesk/embed/jobs",
         "total_jobs": 4,
         "uae_compliance_hits": 0
       },
       {
-        "platform": "greenhouse-embed",
+        "platform": "greenhouse",
         "slug": "flowdesk",
-        "url": "https://api.greenhouse.io/v1/boards/flowdesk/embed/jobs",
+        "url": "https://boards-api.greenhouse.io/v1/boards/flowdesk/jobs",
         "total_jobs": 4,
         "uae_compliance_hits": 0
       },
@@ -589,13 +582,6 @@
     ],
     "Forvis Mazars": [
       {
-        "platform": "greenhouse",
-        "slug": "forvismazars",
-        "url": "https://boards-api.greenhouse.io/v1/boards/forvismazars/jobs",
-        "total_jobs": 149,
-        "uae_compliance_hits": 0
-      },
-      {
         "platform": "greenhouse-embed",
         "slug": "forvismazars",
         "url": "https://api.greenhouse.io/v1/boards/forvismazars/embed/jobs",
@@ -603,10 +589,10 @@
         "uae_compliance_hits": 0
       },
       {
-        "platform": "recruitee",
+        "platform": "greenhouse",
         "slug": "forvismazars",
-        "url": "https://forvismazars.recruitee.com/api/offers/",
-        "total_jobs": 20,
+        "url": "https://boards-api.greenhouse.io/v1/boards/forvismazars/jobs",
+        "total_jobs": 149,
         "uae_compliance_hits": 0
       },
       {
@@ -614,6 +600,13 @@
         "slug": "forvismazars",
         "url": "https://forvismazars.bamboohr.com/careers/list",
         "total_jobs": 33,
+        "uae_compliance_hits": 0
+      },
+      {
+        "platform": "recruitee",
+        "slug": "forvismazars",
+        "url": "https://forvismazars.recruitee.com/api/offers/",
+        "total_jobs": 20,
         "uae_compliance_hits": 0
       },
       {
@@ -626,24 +619,24 @@
     ],
     "FxPro": [
       {
-        "platform": "greenhouse-embed",
-        "slug": "fxpro",
-        "url": "https://api.greenhouse.io/v1/boards/fxpro/embed/jobs",
-        "total_jobs": 5,
-        "uae_compliance_hits": 0
-      },
-      {
         "platform": "greenhouse",
         "slug": "fxpro",
         "url": "https://boards-api.greenhouse.io/v1/boards/fxpro/jobs",
-        "total_jobs": 5,
+        "total_jobs": 2,
+        "uae_compliance_hits": 0
+      },
+      {
+        "platform": "greenhouse-embed",
+        "slug": "fxpro",
+        "url": "https://api.greenhouse.io/v1/boards/fxpro/embed/jobs",
+        "total_jobs": 2,
         "uae_compliance_hits": 0
       },
       {
         "platform": "bamboohr",
         "slug": "fxpro",
         "url": "https://fxpro.bamboohr.com/careers/list",
-        "total_jobs": 36,
+        "total_jobs": 35,
         "uae_compliance_hits": 0
       }
     ],
@@ -667,17 +660,17 @@
     ],
     "Galaxy Digital": [
       {
-        "platform": "greenhouse-embed",
-        "slug": "galaxy",
-        "url": "https://api.greenhouse.io/v1/boards/galaxy/embed/jobs",
-        "total_jobs": 2,
-        "uae_compliance_hits": 0
-      },
-      {
         "platform": "greenhouse",
         "slug": "galaxy",
         "url": "https://boards-api.greenhouse.io/v1/boards/galaxy/jobs",
-        "total_jobs": 2,
+        "total_jobs": 3,
+        "uae_compliance_hits": 0
+      },
+      {
+        "platform": "greenhouse-embed",
+        "slug": "galaxy",
+        "url": "https://api.greenhouse.io/v1/boards/galaxy/embed/jobs",
+        "total_jobs": 3,
         "uae_compliance_hits": 0
       },
       {
@@ -699,17 +692,17 @@
     ],
     "Gemini": [
       {
-        "platform": "greenhouse",
-        "slug": "gemini",
-        "url": "https://boards-api.greenhouse.io/v1/boards/gemini/jobs",
-        "total_jobs": 35,
-        "uae_compliance_hits": 0
-      },
-      {
         "platform": "greenhouse-embed",
         "slug": "gemini",
         "url": "https://api.greenhouse.io/v1/boards/gemini/embed/jobs",
-        "total_jobs": 35,
+        "total_jobs": 33,
+        "uae_compliance_hits": 0
+      },
+      {
+        "platform": "greenhouse",
+        "slug": "gemini",
+        "url": "https://boards-api.greenhouse.io/v1/boards/gemini/jobs",
+        "total_jobs": 33,
         "uae_compliance_hits": 0
       }
     ],
@@ -741,7 +734,7 @@
         "platform": "recruitee",
         "slug": "grantthornton",
         "url": "https://grantthornton.recruitee.com/api/offers/",
-        "total_jobs": 60,
+        "total_jobs": 62,
         "uae_compliance_hits": 0
       }
     ],
@@ -759,7 +752,7 @@
         "platform": "ashby",
         "slug": "hex",
         "url": "https://api.ashbyhq.com/posting-api/job-board/hex",
-        "total_jobs": 40,
+        "total_jobs": 41,
         "uae_compliance_hits": 0
       }
     ],
@@ -768,7 +761,7 @@
         "platform": "bamboohr",
         "slug": "hudson",
         "url": "https://hudson.bamboohr.com/careers/list",
-        "total_jobs": 46,
+        "total_jobs": 47,
         "uae_compliance_hits": 0
       },
       {
@@ -790,16 +783,16 @@
     ],
     "International Holding Company": [
       {
-        "platform": "greenhouse",
+        "platform": "greenhouse-embed",
         "slug": "international",
-        "url": "https://boards-api.greenhouse.io/v1/boards/international/jobs",
+        "url": "https://api.greenhouse.io/v1/boards/international/embed/jobs",
         "total_jobs": 1,
         "uae_compliance_hits": 0
       },
       {
-        "platform": "greenhouse-embed",
+        "platform": "greenhouse",
         "slug": "international",
-        "url": "https://api.greenhouse.io/v1/boards/international/embed/jobs",
+        "url": "https://boards-api.greenhouse.io/v1/boards/international/jobs",
         "total_jobs": 1,
         "uae_compliance_hits": 0
       }
@@ -874,16 +867,16 @@
     ],
     "Landmark Group": [
       {
-        "platform": "greenhouse",
+        "platform": "greenhouse-embed",
         "slug": "landmark",
-        "url": "https://boards-api.greenhouse.io/v1/boards/landmark/jobs",
+        "url": "https://api.greenhouse.io/v1/boards/landmark/embed/jobs",
         "total_jobs": 3,
         "uae_compliance_hits": 0
       },
       {
-        "platform": "greenhouse-embed",
+        "platform": "greenhouse",
         "slug": "landmark",
-        "url": "https://api.greenhouse.io/v1/boards/landmark/embed/jobs",
+        "url": "https://boards-api.greenhouse.io/v1/boards/landmark/jobs",
         "total_jobs": 3,
         "uae_compliance_hits": 0
       },
@@ -909,7 +902,7 @@
         "platform": "smartrecruiters",
         "slug": "masdar",
         "url": "https://api.smartrecruiters.com/v1/companies/masdar/postings?limit=100",
-        "total_jobs": 33,
+        "total_jobs": 36,
         "uae_compliance_hits": 0
       }
     ],
@@ -967,17 +960,17 @@
     ],
     "Multiplier": [
       {
-        "platform": "bamboohr",
-        "slug": "multiplier",
-        "url": "https://multiplier.bamboohr.com/careers/list",
-        "total_jobs": 2,
-        "uae_compliance_hits": 0
-      },
-      {
         "platform": "recruitee",
         "slug": "multiplier",
         "url": "https://multiplier.recruitee.com/api/offers/",
         "total_jobs": 1,
+        "uae_compliance_hits": 0
+      },
+      {
+        "platform": "bamboohr",
+        "slug": "multiplier",
+        "url": "https://multiplier.bamboohr.com/careers/list",
+        "total_jobs": 2,
         "uae_compliance_hits": 0
       },
       {
@@ -1015,33 +1008,33 @@
     ],
     "Nium": [
       {
-        "platform": "lever",
-        "slug": "nium",
-        "url": "https://api.lever.co/v0/postings/nium?mode=json",
-        "total_jobs": 19,
-        "uae_compliance_hits": 0
-      },
-      {
         "platform": "pinpoint",
         "slug": "nium",
         "url": "https://nium.pinpointhq.com/postings.json",
         "total_jobs": 4,
         "uae_compliance_hits": 0
+      },
+      {
+        "platform": "lever",
+        "slug": "nium",
+        "url": "https://api.lever.co/v0/postings/nium?mode=json",
+        "total_jobs": 19,
+        "uae_compliance_hits": 0
       }
     ],
     "NymCard": [
-      {
-        "platform": "bamboohr",
-        "slug": "nymcard",
-        "url": "https://nymcard.bamboohr.com/careers/list",
-        "total_jobs": 1,
-        "uae_compliance_hits": 0
-      },
       {
         "platform": "pinpoint",
         "slug": "nymcard",
         "url": "https://nymcard.pinpointhq.com/postings.json",
         "total_jobs": 4,
+        "uae_compliance_hits": 0
+      },
+      {
+        "platform": "bamboohr",
+        "slug": "nymcard",
+        "url": "https://nymcard.bamboohr.com/careers/list",
+        "total_jobs": 1,
         "uae_compliance_hits": 0
       }
     ],
@@ -1050,14 +1043,14 @@
         "platform": "greenhouse-embed",
         "slug": "okx",
         "url": "https://api.greenhouse.io/v1/boards/okx/embed/jobs",
-        "total_jobs": 349,
+        "total_jobs": 352,
         "uae_compliance_hits": 0
       },
       {
         "platform": "greenhouse",
         "slug": "okx",
         "url": "https://boards-api.greenhouse.io/v1/boards/okx/jobs",
-        "total_jobs": 349,
+        "total_jobs": 352,
         "uae_compliance_hits": 0
       }
     ],
@@ -1070,17 +1063,17 @@
         "uae_compliance_hits": 0
       },
       {
-        "platform": "greenhouse-embed",
-        "slug": "oliver",
-        "url": "https://api.greenhouse.io/v1/boards/oliver/embed/jobs",
-        "total_jobs": 47,
-        "uae_compliance_hits": 0
-      },
-      {
         "platform": "greenhouse",
         "slug": "oliver",
         "url": "https://boards-api.greenhouse.io/v1/boards/oliver/jobs",
-        "total_jobs": 47,
+        "total_jobs": 46,
+        "uae_compliance_hits": 0
+      },
+      {
+        "platform": "greenhouse-embed",
+        "slug": "oliver",
+        "url": "https://api.greenhouse.io/v1/boards/oliver/embed/jobs",
+        "total_jobs": 46,
         "uae_compliance_hits": 0
       }
     ],
@@ -1114,21 +1107,30 @@
         "platform": "greenhouse",
         "slug": "payoneer",
         "url": "https://boards-api.greenhouse.io/v1/boards/payoneer/jobs",
-        "total_jobs": 98,
+        "total_jobs": 100,
         "uae_compliance_hits": 0
       },
       {
         "platform": "greenhouse-embed",
         "slug": "payoneer",
         "url": "https://api.greenhouse.io/v1/boards/payoneer/embed/jobs",
-        "total_jobs": 98,
+        "total_jobs": 100,
         "uae_compliance_hits": 0
       },
       {
         "platform": "careersite-generic",
         "slug": "payoneer",
         "url": "https://careers.payoneer.com/",
-        "total_jobs": 98,
+        "total_jobs": 100,
+        "uae_compliance_hits": 0
+      }
+    ],
+    "Pepperstone": [
+      {
+        "platform": "workable-widget",
+        "slug": "pepperstone",
+        "url": "https://apply.workable.com/api/v1/widget/accounts/pepperstone?details=true",
+        "total_jobs": 21,
         "uae_compliance_hits": 0
       }
     ],
@@ -1171,7 +1173,7 @@
         "platform": "ashby",
         "slug": "rain",
         "url": "https://api.ashbyhq.com/posting-api/job-board/rain",
-        "total_jobs": 42,
+        "total_jobs": 41,
         "uae_compliance_hits": 0
       }
     ],
@@ -1198,21 +1200,28 @@
         "url": "https://api.greenhouse.io/v1/boards/remote/embed/jobs",
         "total_jobs": 2,
         "uae_compliance_hits": 0
+      },
+      {
+        "platform": "breezy",
+        "slug": "remote",
+        "url": "https://remote.breezy.hr/json",
+        "total_jobs": 1,
+        "uae_compliance_hits": 0
       }
     ],
     "Ripple": [
       {
-        "platform": "greenhouse",
-        "slug": "ripple",
-        "url": "https://boards-api.greenhouse.io/v1/boards/ripple/jobs",
-        "total_jobs": 117,
-        "uae_compliance_hits": 0
-      },
-      {
         "platform": "greenhouse-embed",
         "slug": "ripple",
         "url": "https://api.greenhouse.io/v1/boards/ripple/embed/jobs",
-        "total_jobs": 117,
+        "total_jobs": 112,
+        "uae_compliance_hits": 0
+      },
+      {
+        "platform": "greenhouse",
+        "slug": "ripple",
+        "url": "https://boards-api.greenhouse.io/v1/boards/ripple/jobs",
+        "total_jobs": 112,
         "uae_compliance_hits": 0
       }
     ],
@@ -1221,15 +1230,6 @@
         "platform": "pinpoint",
         "slug": "robertwalters",
         "url": "https://robertwalters.pinpointhq.com/postings.json",
-        "total_jobs": 5,
-        "uae_compliance_hits": 0
-      }
-    ],
-    "SAP": [
-      {
-        "platform": "bamboohr",
-        "slug": "sap",
-        "url": "https://sap.bamboohr.com/careers/list",
         "total_jobs": 5,
         "uae_compliance_hits": 0
       }
@@ -1307,14 +1307,14 @@
         "platform": "greenhouse-embed",
         "slug": "stripe",
         "url": "https://api.greenhouse.io/v1/boards/stripe/embed/jobs",
-        "total_jobs": 721,
+        "total_jobs": 723,
         "uae_compliance_hits": 0
       },
       {
         "platform": "greenhouse",
         "slug": "stripe",
         "url": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs",
-        "total_jobs": 721,
+        "total_jobs": 723,
         "uae_compliance_hits": 0
       }
     ],
@@ -1323,7 +1323,7 @@
         "platform": "smartrecruiters",
         "slug": "swissquote",
         "url": "https://api.smartrecruiters.com/v1/companies/swissquote/postings?limit=100",
-        "total_jobs": 48,
+        "total_jobs": 49,
         "uae_compliance_hits": 0
       }
     ],
@@ -1332,43 +1332,43 @@
         "platform": "pinpoint",
         "slug": "tabby",
         "url": "https://tabby.pinpointhq.com/postings.json",
-        "total_jobs": 46,
+        "total_jobs": 44,
         "uae_compliance_hits": 0
       },
       {
         "platform": "pinpoint",
         "slug": "tabby",
         "url": "https://tabby.pinpointhq.com/postings.json",
-        "total_jobs": 46,
+        "total_jobs": 43,
         "uae_compliance_hits": 0
       }
     ],
     "Tamara": [
       {
-        "platform": "greenhouse-embed",
-        "slug": "tamara",
-        "url": "https://api.greenhouse.io/v1/boards/tamara/embed/jobs",
-        "total_jobs": 39,
-        "uae_compliance_hits": 0
-      },
-      {
         "platform": "greenhouse",
         "slug": "tamara",
         "url": "https://boards-api.greenhouse.io/v1/boards/tamara/jobs",
-        "total_jobs": 39,
+        "total_jobs": 40,
         "uae_compliance_hits": 0
       },
       {
         "platform": "greenhouse-embed",
-        "slug": "tamaragroup",
-        "url": "https://api.greenhouse.io/v1/boards/tamaragroup/embed/jobs",
-        "total_jobs": 3,
+        "slug": "tamara",
+        "url": "https://api.greenhouse.io/v1/boards/tamara/embed/jobs",
+        "total_jobs": 40,
         "uae_compliance_hits": 0
       },
       {
         "platform": "greenhouse",
         "slug": "tamaragroup",
         "url": "https://boards-api.greenhouse.io/v1/boards/tamaragroup/jobs",
+        "total_jobs": 3,
+        "uae_compliance_hits": 0
+      },
+      {
+        "platform": "greenhouse-embed",
+        "slug": "tamaragroup",
+        "url": "https://api.greenhouse.io/v1/boards/tamaragroup/embed/jobs",
         "total_jobs": 3,
         "uae_compliance_hits": 0
       }
@@ -1387,7 +1387,7 @@
         "platform": "recruitee",
         "slug": "tether",
         "url": "https://tether.recruitee.com/api/offers/",
-        "total_jobs": 195,
+        "total_jobs": 193,
         "uae_compliance_hits": 2
       }
     ],
@@ -1396,14 +1396,14 @@
         "platform": "greenhouse-embed",
         "slug": "thinkmarkets",
         "url": "https://api.greenhouse.io/v1/boards/thinkmarkets/embed/jobs",
-        "total_jobs": 5,
+        "total_jobs": 4,
         "uae_compliance_hits": 0
       },
       {
         "platform": "greenhouse",
         "slug": "thinkmarkets",
         "url": "https://boards-api.greenhouse.io/v1/boards/thinkmarkets/jobs",
-        "total_jobs": 5,
+        "total_jobs": 4,
         "uae_compliance_hits": 0
       }
     ],
@@ -1527,13 +1527,6 @@
         "slug": "egroup",
         "url": "https://egroup.recruitee.com/api/offers/",
         "total_jobs": 35,
-        "uae_compliance_hits": 0
-      },
-      {
-        "platform": "workable-widget",
-        "slug": "ecareers",
-        "url": "https://apply.workable.com/api/v1/widget/accounts/ecareers?details=true",
-        "total_jobs": 230,
         "uae_compliance_hits": 0
       }
     ],
