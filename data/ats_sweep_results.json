@@ -1,8 +1,19 @@
 {
-  "run_utc": "2026-10-17T08:05:18.701574+00:00",
+  "run_utc": "2026-10-18T08:22:41.813978+00:00",
   "window_days": 7,
-  "cutoff": "2026-10-10",
+  "cutoff": "2026-10-11",
   "hits": [
+    {
+      "source": "greenhouse",
+      "company": "bybit",
+      "title": "HRBP Lead, Legal & Compliance",
+      "location": "Abu Dhabi, UAE; Kuala Lumpur, Malaysia",
+      "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/5009421101",
+      "posted_date": "2026-10-17",
+      "evidence": "Greenhouse first_published",
+      "in_window": true,
+      "age_days": 0
+    },
     {
       "source": "greenhouse",
       "company": "binance",
@@ -12,7 +23,7 @@
       "posted_date": "2026-10-13",
       "evidence": "Greenhouse first_published",
       "in_window": true,
-      "age_days": 3
+      "age_days": 4
     },
     {
       "source": "greenhouse",
@@ -23,7 +34,7 @@
       "posted_date": "2026-10-06",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 10
+      "age_days": 11
     },
     {
       "source": "greenhouse",
@@ -34,7 +45,7 @@
       "posted_date": "2026-09-04",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 42
+      "age_days": 43
     },
     {
       "source": "greenhouse",
@@ -45,7 +56,29 @@
       "posted_date": "2026-06-15",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 124
+      "age_days": 125
+    },
+    {
+      "source": "board:bayt-mlro",
+      "company": "bayt",
+      "title": "URL Source: https://www.bayt.com/en/uae/jobs/mlro-jobs/",
+      "location": "UAE",
+      "url": "https://www.bayt.com/favicon.ico",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "workday",
+      "company": "citi",
+      "title": "Head Of AML UAE (UAE Nationals Preferred)",
+      "location": "Dubai United Arab Emirates",
+      "url": "https://citi.wd5.myworkdayjobs.com/job/Dubai-United-Arab-Emirates/Head-Of-AML-UAE---UAE-Nationals-Preferred-_26983431",
+      "posted_date": null,
+      "evidence": "Workday postedOn",
+      "in_window": false,
+      "age_days": null
     },
     {
       "source": "board:gulftalent-compliance",
@@ -160,20 +193,20 @@
     {
       "source": "board:gulftalent-compliance",
       "company": "gulftalent",
-      "title": "| Head of Compliance and MLRO(https://www.gulftalent.com/uae/jobs/head-of-compliance-and-mlro-647365) Michael Page | Dub",
+      "title": "| Vice President and Head of Compliance and Surveillance(https://www.gulftalent.com/uae/jobs/vice-president-and-head-of-",
       "location": "UAE",
-      "url": "https://www.gulftalent.com/uae/jobs/head-of-compliance-and-mlro-647365",
+      "url": "https://www.gulftalent.com/uae/jobs/vice-president-and-head-of-compliance-and-surveillance-648131",
       "posted_date": null,
       "evidence": "no date in extracted listing",
       "in_window": false,
       "age_days": null
     },
     {
-      "source": "board:bayt-head-aml",
-      "company": "bayt",
-      "title": "URL Source: https://www.bayt.com/en/uae/jobs/head-of-aml-jobs/",
+      "source": "board:gulftalent-compliance",
+      "company": "gulftalent",
+      "title": "| Head of Compliance and MLRO(https://www.gulftalent.com/uae/jobs/head-of-compliance-and-mlro-647365) Michael Page | Dub",
       "location": "UAE",
-      "url": "https://www.bayt.com/favicon.ico",
+      "url": "https://www.gulftalent.com/uae/jobs/head-of-compliance-and-mlro-647365",
       "posted_date": null,
       "evidence": "no date in extracted listing",
       "in_window": false,
@@ -237,17 +270,6 @@
     {
       "source": "board:naukrigulf-compliance",
       "company": "naukrigulf",
-      "title": "IT Compliance Manager Client of AIQU(https://www.naukrigulf.com/it-compliance-manager-jobs-in-abu-dhabi-uae-in-client-of",
-      "location": "UAE",
-      "url": "https://www.naukrigulf.com/it-compliance-manager-jobs-in-abu-dhabi-uae-in-client-of-aiqu-5-to-10-years-n-cd-10051730-jid-141026500904",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
       "title": "Head of Compliance, EU & UK OKX(https://www.naukrigulf.com/head-of-compliance-eu-uk-jobs-in-uae-in-okx-10-to-12-years-n-",
       "location": "UAE",
       "url": "https://www.naukrigulf.com/head-of-compliance-eu-uk-jobs-in-uae-in-okx-10-to-12-years-n-cd-40000332-jid-091026500850",
@@ -262,6 +284,17 @@
       "title": "Lead compliance program across Europe and UK, managing teams, ensuring regulatory adherence, and utilizing data and auto",
       "location": "UAE",
       "url": "https://static.naukimg.com/ni/nipjp/40004182/40004182_srp.gif",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Advise senior management on regulatory obligations, manage compliance risks, and strengthen policies while supporting pr",
+      "location": "UAE",
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.naukrigulf.com/compliance-jobs-in-uae \"Linkedin\"",
       "posted_date": null,
       "evidence": "no date in extracted listing",
       "in_window": false,
@@ -303,11 +336,11 @@
     "[ashby] veriff: HTTP 404",
     "[ashby] ziina: ok (13 jobs, 13 UAE)",
     "[ashby] zodia: HTTP 404",
-    "[board] bayt-head-aml: ok via r.jina.ai (1 in-scope lines)",
+    "[board] bayt-head-aml: FAILED (datacenter IP blocked; proxies unavailable)",
     "[board] bayt-head-compliance: FAILED (datacenter IP blocked; proxies unavailable)",
-    "[board] bayt-mlro: FAILED (datacenter IP blocked; proxies unavailable)",
+    "[board] bayt-mlro: ok via r.jina.ai (1 in-scope lines)",
     "[board] efc-uae: FAILED (datacenter IP blocked; proxies unavailable)",
-    "[board] gulftalent-compliance: ok via r.jina.ai (11 in-scope lines)",
+    "[board] gulftalent-compliance: ok via r.jina.ai (12 in-scope lines)",
     "[board] naukrigulf-compliance: ok via r.jina.ai (8 in-scope lines)",
     "[greenhouse] adcbbank: HTTP 404",
     "[greenhouse] adia: HTTP 404",
@@ -322,7 +355,7 @@
     "[greenhouse] bingx: HTTP 404",
     "[greenhouse] bitget: HTTP 404",
     "[greenhouse] bitgo: ok (54 jobs, 0 UAE)",
-    "[greenhouse] bybit: ok (157 jobs, 51 UAE)",
+    "[greenhouse] bybit: ok (159 jobs, 53 UAE)",
     "[greenhouse] capitalcom: HTTP 404",
     "[greenhouse] careemtech: HTTP 404",
     "[greenhouse] chainalysis: HTTP 404",
@@ -347,7 +380,7 @@
     "[greenhouse] fetchr: HTTP 404",
     "[greenhouse] fireblocks: ok (26 jobs, 2 UAE)",
     "[greenhouse] flowtraders: ok (47 jobs, 0 UAE)",
-    "[greenhouse] fxpro: ok (1 jobs, 0 UAE)",
+    "[greenhouse] fxpro: ok (2 jobs, 0 UAE)",
     "[greenhouse] g42ai: HTTP 404",
     "[greenhouse] galaxydigital: HTTP 404",
     "[greenhouse] gateio: HTTP 404",
@@ -379,7 +412,7 @@
     "[greenhouse] optiver: ok (0 jobs, 0 UAE)",
     "[greenhouse] papayaglobal: HTTP 404",
     "[greenhouse] paxosglobal: HTTP 404",
-    "[greenhouse] payoneer: ok (99 jobs, 0 UAE)",
+    "[greenhouse] payoneer: ok (100 jobs, 0 UAE)",
     "[greenhouse] paysafe: HTTP 404",
     "[greenhouse] pepperstone: HTTP 404",
     "[greenhouse] pinelabs: HTTP 404",
@@ -396,7 +429,7 @@
     "[greenhouse] shuaacapital: HTTP 404",
     "[greenhouse] space42: HTTP 404",
     "[greenhouse] stashaway: HTTP 404",
-    "[greenhouse] stripe: ok (731 jobs, 0 UAE)",
+    "[greenhouse] stripe: ok (732 jobs, 0 UAE)",
     "[greenhouse] swissquote: HTTP 404",
     "[greenhouse] swvl: HTTP 404",
     "[greenhouse] tabby: HTTP 404",
@@ -489,21 +522,21 @@
     "[workable] telr: HTTP 404",
     "[workable] wio: ok (0 jobs, 0 UAE)",
     "[workable] yallacompare: ok (0 jobs, 0 UAE)",
-    "[workday] aig/AIG: no reachable endpoint",
+    "[workday] aig/AIG: ok (20 jobs, 0 UAE)",
     "[workday] aon/Aon: no reachable endpoint",
     "[workday] baml/BankofAmerica: no reachable endpoint",
     "[workday] barclays/External: no reachable endpoint",
-    "[workday] citi/2: no reachable endpoint",
-    "[workday] db/DBWebsite: no reachable endpoint",
+    "[workday] citi/2: ok (20 jobs, 2 UAE)",
+    "[workday] db/DBWebsite: ok (20 jobs, 0 UAE)",
     "[workday] gs/Goldman: no reachable endpoint",
     "[workday] hsbc/External: no reachable endpoint",
     "[workday] jpmc/jpmc: no reachable endpoint",
     "[workday] kpmg/KPMG: no reachable endpoint",
     "[workday] marsh/MMC: no reachable endpoint",
-    "[workday] mastercard/CorporateCareers: no reachable endpoint",
+    "[workday] mastercard/CorporateCareers: ok (20 jobs, 1 UAE)",
     "[workday] mufg/MUFG: no reachable endpoint",
     "[workday] natwest/NatWest: no reachable endpoint",
-    "[workday] pwc/Global_Experienced_Careers: no reachable endpoint",
+    "[workday] pwc/Global_Experienced_Careers: ok (20 jobs, 0 UAE)",
     "[workday] standardchartered/Careers: no reachable endpoint",
     "[workday] ubs/UBSCareers: no reachable endpoint",
     "[workday] visa/Visa_External: no reachable endpoint"
