@@ -1,19 +1,8 @@
 {
-  "run_utc": "2026-10-18T08:27:20.309072+00:00",
-  "cutoff": "2026-10-11",
+  "run_utc": "2026-10-19T09:28:45.540248+00:00",
+  "cutoff": "2026-10-12",
   "window_days": 7,
   "hits": [
-    {
-      "platform": "oracle-hcm",
-      "employer": "First Abu Dhabi Bank",
-      "title": "VP & Head of Compliance - Global Markets, GCF and Head of Surveillance",
-      "location": "Abu Dhabi, United Arab Emirates",
-      "url": "https://ehjd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2945",
-      "posted_date": "2026-10-15",
-      "evidence": "Oracle HCM PostedDate",
-      "in_window": true,
-      "age_days": 3
-    },
     {
       "platform": "oracle-hcm",
       "employer": "RAKBank",
@@ -23,7 +12,7 @@
       "posted_date": "2026-10-01",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 17
+      "age_days": 18
     },
     {
       "platform": "oracle-hcm",
@@ -34,7 +23,7 @@
       "posted_date": "2026-09-22",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 26
+      "age_days": 27
     }
   ],
   "log": [
@@ -45,7 +34,7 @@
     "[oracle-hcm] Emaar (CX_1001): 1 reqs listed, 0 UAE compliance",
     "[oracle-hcm] DP World (CX_1): 200 reqs listed, 0 UAE compliance",
     "[oracle-hcm] JPMorgan (CX_1001): 200 reqs listed, 0 UAE compliance",
-    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 114 reqs listed, 2 UAE compliance",
+    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 109 reqs listed, 1 UAE compliance",
     "[oracle-hcm] Abu Dhabi Islamic Bank: no reachable site endpoint",
     "[oracle-hcm] Mashreq: no reachable site endpoint",
     "[successfactors] Pictet: page ok, 0 UAE compliance",
