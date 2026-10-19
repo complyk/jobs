@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-10-18T08:22:41.813978+00:00",
+  "run_utc": "2026-10-19T09:22:05.842066+00:00",
   "window_days": 7,
-  "cutoff": "2026-10-11",
+  "cutoff": "2026-10-12",
   "hits": [
     {
       "source": "greenhouse",
@@ -12,7 +12,7 @@
       "posted_date": "2026-10-17",
       "evidence": "Greenhouse first_published",
       "in_window": true,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "source": "greenhouse",
@@ -23,7 +23,7 @@
       "posted_date": "2026-10-13",
       "evidence": "Greenhouse first_published",
       "in_window": true,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "source": "greenhouse",
@@ -34,7 +34,7 @@
       "posted_date": "2026-10-06",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 11
+      "age_days": 12
     },
     {
       "source": "greenhouse",
@@ -45,7 +45,7 @@
       "posted_date": "2026-09-04",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 43
+      "age_days": 44
     },
     {
       "source": "greenhouse",
@@ -56,18 +56,7 @@
       "posted_date": "2026-06-15",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 125
-    },
-    {
-      "source": "board:bayt-mlro",
-      "company": "bayt",
-      "title": "URL Source: https://www.bayt.com/en/uae/jobs/mlro-jobs/",
-      "location": "UAE",
-      "url": "https://www.bayt.com/favicon.ico",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
+      "age_days": 126
     },
     {
       "source": "workday",
@@ -237,28 +226,6 @@
     {
       "source": "board:naukrigulf-compliance",
       "company": "naukrigulf",
-      "title": "Senior Manager- Compliance & MLRO(https://www.naukrigulf.com/senior-manager-compliance-mlro-jobs-in-dubai-uae-in-bitoasi",
-      "location": "UAE",
-      "url": "https://www.naukrigulf.com/senior-manager-compliance-mlro-jobs-in-dubai-uae-in-bitoasis-10-to-15-years-n-cd-10008823-jid-121026501649",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
-      "title": "Lead compliance strategy and AML/CFT frameworks, ensuring regulatory adherence and operational resilience while advising",
-      "location": "UAE",
-      "url": "https://static.naukimg.com/ni/nipjp/40003617/40003617_srp.gif",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
       "title": "AML compliance manager Forvis Mazars(https://www.naukrigulf.com/aml-compliance-manager-jobs-in-dubai-uae-in-forvis-mazar",
       "location": "UAE",
       "url": "https://www.naukrigulf.com/aml-compliance-manager-jobs-in-dubai-uae-in-forvis-mazars-0-to-5-years-n-cd-40003617-jid-131026500784",
@@ -283,7 +250,29 @@
       "company": "naukrigulf",
       "title": "Lead compliance program across Europe and UK, managing teams, ensuring regulatory adherence, and utilizing data and auto",
       "location": "UAE",
-      "url": "https://static.naukimg.com/ni/nipjp/40004182/40004182_srp.gif",
+      "url": "https://static.naukimg.com/ni/nipjp/10008823/10008823_srp.gif",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Senior Manager- Compliance & MLRO(https://www.naukrigulf.com/senior-manager-compliance-mlro-jobs-in-dubai-uae-in-bitoasi",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/senior-manager-compliance-mlro-jobs-in-dubai-uae-in-bitoasis-10-to-15-years-n-cd-10008823-jid-121026501649",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Lead compliance strategy and AML/CFT frameworks, ensuring regulatory adherence and operational resilience while advising",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/compliance-specialist-jobs-in-dubai-uae-in-emirates-islamic-2-to-7-years-n-cd-10002013-jid-091026500735",
       "posted_date": null,
       "evidence": "no date in extracted listing",
       "in_window": false,
@@ -303,7 +292,7 @@
   ],
   "log": [
     "[ashby] LeanTech: ok (7 jobs, 1 UAE)",
-    "[ashby] airwallex: ok (496 jobs, 2 UAE)",
+    "[ashby] airwallex: ok (500 jobs, 2 UAE)",
     "[ashby] alloy: ok (0 jobs, 0 UAE)",
     "[ashby] belo: HTTP 404",
     "[ashby] bitso: HTTP 404",
@@ -334,12 +323,12 @@
     "[ashby] trulioo: ok (25 jobs, 0 UAE)",
     "[ashby] unit: ok (3 jobs, 0 UAE)",
     "[ashby] veriff: HTTP 404",
-    "[ashby] ziina: ok (13 jobs, 13 UAE)",
+    "[ashby] ziina: ok (14 jobs, 14 UAE)",
     "[ashby] zodia: HTTP 404",
     "[board] bayt-head-aml: FAILED (datacenter IP blocked; proxies unavailable)",
     "[board] bayt-head-compliance: FAILED (datacenter IP blocked; proxies unavailable)",
-    "[board] bayt-mlro: ok via r.jina.ai (1 in-scope lines)",
-    "[board] efc-uae: FAILED (datacenter IP blocked; proxies unavailable)",
+    "[board] bayt-mlro: FAILED (datacenter IP blocked; proxies unavailable)",
+    "[board] efc-uae: ok via r.jina.ai (0 in-scope lines)",
     "[board] gulftalent-compliance: ok via r.jina.ai (12 in-scope lines)",
     "[board] naukrigulf-compliance: ok via r.jina.ai (8 in-scope lines)",
     "[greenhouse] adcbbank: HTTP 404",
@@ -351,11 +340,11 @@
     "[greenhouse] axitrader: HTTP 404",
     "[greenhouse] baraka: HTTP 404",
     "[greenhouse] bayut: HTTP 404",
-    "[greenhouse] binance: ok (205 jobs, 33 UAE)",
+    "[greenhouse] binance: ok (211 jobs, 35 UAE)",
     "[greenhouse] bingx: HTTP 404",
     "[greenhouse] bitget: HTTP 404",
     "[greenhouse] bitgo: ok (54 jobs, 0 UAE)",
-    "[greenhouse] bybit: ok (159 jobs, 53 UAE)",
+    "[greenhouse] bybit: ok (162 jobs, 54 UAE)",
     "[greenhouse] capitalcom: HTTP 404",
     "[greenhouse] careemtech: HTTP 404",
     "[greenhouse] chainalysis: HTTP 404",
@@ -364,7 +353,7 @@
     "[greenhouse] cmcmarkets: HTTP 404",
     "[greenhouse] coinbase: ok (226 jobs, 6 UAE)",
     "[greenhouse] consensys: ok (9 jobs, 0 UAE)",
-    "[greenhouse] copperco: ok (3 jobs, 0 UAE)",
+    "[greenhouse] copperco: ok (2 jobs, 0 UAE)",
     "[greenhouse] core42: HTTP 404",
     "[greenhouse] dagangnexchange: HTTP 404",
     "[greenhouse] deel: HTTP 404",
@@ -380,7 +369,7 @@
     "[greenhouse] fetchr: HTTP 404",
     "[greenhouse] fireblocks: ok (26 jobs, 2 UAE)",
     "[greenhouse] flowtraders: ok (47 jobs, 0 UAE)",
-    "[greenhouse] fxpro: ok (2 jobs, 0 UAE)",
+    "[greenhouse] fxpro: ok (17 jobs, 0 UAE)",
     "[greenhouse] g42ai: HTTP 404",
     "[greenhouse] galaxydigital: HTTP 404",
     "[greenhouse] gateio: HTTP 404",
@@ -412,7 +401,7 @@
     "[greenhouse] optiver: ok (0 jobs, 0 UAE)",
     "[greenhouse] papayaglobal: HTTP 404",
     "[greenhouse] paxosglobal: HTTP 404",
-    "[greenhouse] payoneer: ok (100 jobs, 0 UAE)",
+    "[greenhouse] payoneer: ok (99 jobs, 0 UAE)",
     "[greenhouse] paysafe: HTTP 404",
     "[greenhouse] pepperstone: HTTP 404",
     "[greenhouse] pinelabs: HTTP 404",
@@ -429,12 +418,12 @@
     "[greenhouse] shuaacapital: HTTP 404",
     "[greenhouse] space42: HTTP 404",
     "[greenhouse] stashaway: HTTP 404",
-    "[greenhouse] stripe: ok (732 jobs, 0 UAE)",
+    "[greenhouse] stripe: ok (727 jobs, 0 UAE)",
     "[greenhouse] swissquote: HTTP 404",
     "[greenhouse] swvl: HTTP 404",
     "[greenhouse] tabby: HTTP 404",
     "[greenhouse] talabat: HTTP 404",
-    "[greenhouse] tamara: ok (40 jobs, 12 UAE)",
+    "[greenhouse] tamara: ok (42 jobs, 13 UAE)",
     "[greenhouse] telr: HTTP 404",
     "[greenhouse] thinkmarkets: HTTP 404",
     "[greenhouse] thunes: ok (52 jobs, 0 UAE)",
@@ -449,7 +438,7 @@
     "[lever] bitfury: HTTP 404",
     "[lever] bitoasis: HTTP 404",
     "[lever] bitpanda: HTTP 404",
-    "[lever] capital: ok (55 jobs, 4 UAE)",
+    "[lever] capital: ok (54 jobs, 4 UAE)",
     "[lever] careem: HTTP 404",
     "[lever] cashew: HTTP 404",
     "[lever] complyadvantage: HTTP 404",
