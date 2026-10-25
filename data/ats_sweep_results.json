@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-10-24T08:26:47.907250+00:00",
+  "run_utc": "2026-10-25T08:46:14.393417+00:00",
   "window_days": 7,
-  "cutoff": "2026-10-17",
+  "cutoff": "2026-10-18",
   "hits": [
     {
       "source": "greenhouse",
@@ -12,7 +12,7 @@
       "posted_date": "2026-10-21",
       "evidence": "Greenhouse first_published",
       "in_window": true,
-      "age_days": 2
+      "age_days": 3
     },
     {
       "source": "greenhouse",
@@ -23,7 +23,7 @@
       "posted_date": "2026-10-13",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 10
+      "age_days": 11
     },
     {
       "source": "greenhouse",
@@ -34,7 +34,7 @@
       "posted_date": "2026-10-06",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 17
+      "age_days": 18
     },
     {
       "source": "greenhouse",
@@ -45,7 +45,7 @@
       "posted_date": "2026-09-04",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 49
+      "age_days": 50
     },
     {
       "source": "greenhouse",
@@ -56,7 +56,7 @@
       "posted_date": "2026-06-15",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 131
+      "age_days": 132
     },
     {
       "source": "workday",
@@ -66,6 +66,127 @@
       "url": "https://citi.wd5.myworkdayjobs.com/job/Dubai-United-Arab-Emirates/Head-Of-AML-UAE---UAE-Nationals-Preferred-_26983431",
       "posted_date": null,
       "evidence": "Workday postedOn",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:gulftalent-compliance",
+      "company": "gulftalent",
+      "title": "| Chief Compliance Officer(https://www.gulftalent.com/uae/jobs/chief-compliance-officer-631604) New York University Abu",
+      "location": "UAE",
+      "url": "https://www.gulftalent.com/uae/jobs/chief-compliance-officer-631604",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:gulftalent-compliance",
+      "company": "gulftalent",
+      "title": "| Cyber Governance, Risk & Compliance Manager (UAE National)(https://www.gulftalent.com/uae/jobs/cyber-governance-risk-c",
+      "location": "UAE",
+      "url": "https://www.gulftalent.com/uae/jobs/cyber-governance-risk-compliance-manager-uae-national-643005",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:gulftalent-compliance",
+      "company": "gulftalent",
+      "title": "| Head of Compliance - Commodities/Trading(https://www.gulftalent.com/uae/jobs/head-of-compliance-commodities-trading-63",
+      "location": "UAE",
+      "url": "https://www.gulftalent.com/uae/jobs/head-of-compliance-commodities-trading-639349",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:gulftalent-compliance",
+      "company": "gulftalent",
+      "title": "| Head of Compliance \u2013 Islamic Bank(https://www.gulftalent.com/uae/jobs/head-of-compliance-islamic-bank-638253)!Image 17",
+      "location": "UAE",
+      "url": "https://www.gulftalent.com/uae/jobs/head-of-compliance-islamic-bank-638253",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:gulftalent-compliance",
+      "company": "gulftalent",
+      "title": "| Head of Compliance \u2013 Islamic Bank(https://www.gulftalent.com/uae/jobs/head-of-compliance-islamic-bank-638250)!Image 19",
+      "location": "UAE",
+      "url": "https://www.gulftalent.com/uae/jobs/head-of-compliance-islamic-bank-638250",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:gulftalent-compliance",
+      "company": "gulftalent",
+      "title": "| Head of Compliance(https://www.gulftalent.com/uae/jobs/head-of-compliance-638249)!Image 21: Easy Apply(https://www.gul",
+      "location": "UAE",
+      "url": "https://www.gulftalent.com/uae/jobs/head-of-compliance-638249",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:gulftalent-compliance",
+      "company": "gulftalent",
+      "title": "| Senior Compliance Manager - Commodities(https://www.gulftalent.com/uae/jobs/senior-compliance-manager-commodities-6329",
+      "location": "UAE",
+      "url": "https://www.gulftalent.com/uae/jobs/senior-compliance-manager-commodities-632932",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:gulftalent-compliance",
+      "company": "gulftalent",
+      "title": "| Head of Legal and Compliance(https://www.gulftalent.com/uae/jobs/head-of-legal-and-compliance-592179)!Image 27: Easy A",
+      "location": "UAE",
+      "url": "https://www.gulftalent.com/uae/jobs/head-of-legal-and-compliance-592179",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:gulftalent-compliance",
+      "company": "gulftalent",
+      "title": "| IT Compliance Manager(https://www.gulftalent.com/uae/jobs/it-compliance-manager-646152) AIQU(https://www.gulftalent.co",
+      "location": "UAE",
+      "url": "https://www.gulftalent.com/uae/jobs/it-compliance-manager-646152",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:gulftalent-compliance",
+      "company": "gulftalent",
+      "title": "| Process and Compliance Manager(https://www.gulftalent.com/uae/jobs/process-and-compliance-manager-618481) Al Futtaim G",
+      "location": "UAE",
+      "url": "https://www.gulftalent.com/uae/jobs/process-and-compliance-manager-618481",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:gulftalent-compliance",
+      "company": "gulftalent",
+      "title": "| Compliance Manager(https://www.gulftalent.com/uae/jobs/compliance-manager-650627) Emirates Investment Authority | Abu",
+      "location": "UAE",
+      "url": "https://www.gulftalent.com/uae/jobs/compliance-manager-650627",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
       "in_window": false,
       "age_days": null
     },
@@ -97,17 +218,6 @@
       "title": "Project Manager-Compliance(https://www.naukrigulf.com/project-manager-compliance-jobs-in-ajman-uae-in-dicetek-llc-6-to-1",
       "location": "UAE",
       "url": "https://www.naukrigulf.com/project-manager-compliance-jobs-in-ajman-uae-in-dicetek-llc-6-to-10-years-m-cd-41691-jid-051026000317",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
-      "title": "Lead Trade Compliance operations in Emerging Markets, ensuring customs compliance, managing trade initiatives, and provi",
-      "location": "UAE",
-      "url": "https://static.naukimg.com/ni/nipjp/10007375/10007375_srp.gif",
       "posted_date": null,
       "evidence": "no date in extracted listing",
       "in_window": false,
@@ -149,7 +259,7 @@
     {
       "source": "board:naukrigulf-compliance",
       "company": "naukrigulf",
-      "title": "Head of Compliance Client of Hanson Search Ltd(https://www.naukrigulf.com/head-of-compliance-jobs-in-abu-dhabi-uae-in-cl",
+      "title": "Lead Trade Compliance operations in Emerging Markets, ensuring customs compliance, managing trade initiatives, and provi",
       "location": "UAE",
       "url": "https://www.naukrigulf.com/head-of-compliance-jobs-in-abu-dhabi-uae-in-client-of-hanson-search-ltd-5-to-10-years-n-cd-10050852-jid-201026500210",
       "posted_date": null,
@@ -162,7 +272,7 @@
       "company": "naukrigulf",
       "title": "We are partnering with a fast-growing, ADGM-regulated financial services firm on the appointment of a Head of Compliance",
       "location": "UAE",
-      "url": "https://static.naukimg.com/ni/nipjp/10008823/10008823_srp.gif",
+      "url": "https://static.naukimg.com/ni/nipjp/40005715/40005715_srp.gif",
       "posted_date": null,
       "evidence": "no date in extracted listing",
       "in_window": false,
@@ -171,20 +281,9 @@
     {
       "source": "board:naukrigulf-compliance",
       "company": "naukrigulf",
-      "title": "Senior Manager- Compliance & MLRO(https://www.naukrigulf.com/senior-manager-compliance-mlro-jobs-in-dubai-uae-in-bitoasi",
+      "title": "Chief Compliance Officer Mal.AI(https://www.naukrigulf.com/chief-compliance-officer-jobs-in-abu-dhabi-uae-in-mal-ai-0-to",
       "location": "UAE",
-      "url": "https://www.naukrigulf.com/senior-manager-compliance-mlro-jobs-in-dubai-uae-in-bitoasis-10-to-15-years-n-cd-10008823-jid-121026501649",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
-      "title": "Lead compliance strategy and AML/CFT frameworks, ensuring regulatory adherence and operational resilience while advising",
-      "location": "UAE",
-      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.naukrigulf.com/compliance-jobs-in-uae \"Linkedin\"",
+      "url": "https://www.naukrigulf.com/chief-compliance-officer-jobs-in-abu-dhabi-uae-in-mal-ai-0-to-5-years-n-cd-40005715-jid-141026500116",
       "posted_date": null,
       "evidence": "no date in extracted listing",
       "in_window": false,
@@ -194,14 +293,14 @@
   "log": [
     "[ashby] LeanTech: ok (9 jobs, 2 UAE)",
     "[ashby] airwallex: ok (508 jobs, 3 UAE)",
-    "[ashby] alloy: ok (0 jobs, 0 UAE)",
+    "[ashby] alloy: ok (26 jobs, 0 UAE)",
     "[ashby] belo: HTTP 404",
     "[ashby] bitso: HTTP 404",
     "[ashby] brex: HTTP 404",
     "[ashby] buenbit: HTTP 404",
     "[ashby] chainalysis: HTTP 404",
     "[ashby] deribit: HTTP 404",
-    "[ashby] elliptic: ok (29 jobs, 0 UAE)",
+    "[ashby] elliptic: ok (30 jobs, 0 UAE)",
     "[ashby] flowdesk: HTTP 404",
     "[ashby] fuze: HTTP 404",
     "[ashby] hubpay: HTTP 404",
@@ -230,8 +329,8 @@
     "[board] bayt-head-compliance: FAILED (datacenter IP blocked; proxies unavailable)",
     "[board] bayt-mlro: FAILED (datacenter IP blocked; proxies unavailable)",
     "[board] efc-uae: ok via r.jina.ai (0 in-scope lines)",
-    "[board] gulftalent-compliance: ok via r.jina.ai (0 in-scope lines)",
-    "[board] naukrigulf-compliance: ok via r.jina.ai (12 in-scope lines)",
+    "[board] gulftalent-compliance: ok via r.jina.ai (11 in-scope lines)",
+    "[board] naukrigulf-compliance: ok via r.jina.ai (11 in-scope lines)",
     "[greenhouse] adcbbank: HTTP 404",
     "[greenhouse] adia: HTTP 404",
     "[greenhouse] airwallexglobal: HTTP 404",
@@ -241,7 +340,7 @@
     "[greenhouse] axitrader: HTTP 404",
     "[greenhouse] baraka: HTTP 404",
     "[greenhouse] bayut: HTTP 404",
-    "[greenhouse] binance: ok (235 jobs, 44 UAE)",
+    "[greenhouse] binance: ok (234 jobs, 45 UAE)",
     "[greenhouse] bingx: HTTP 404",
     "[greenhouse] bitget: HTTP 404",
     "[greenhouse] bitgo: ok (51 jobs, 0 UAE)",
@@ -319,7 +418,7 @@
     "[greenhouse] shuaacapital: HTTP 404",
     "[greenhouse] space42: HTTP 404",
     "[greenhouse] stashaway: HTTP 404",
-    "[greenhouse] stripe: ok (720 jobs, 0 UAE)",
+    "[greenhouse] stripe: ok (719 jobs, 0 UAE)",
     "[greenhouse] swissquote: HTTP 404",
     "[greenhouse] swvl: HTTP 404",
     "[greenhouse] tabby: HTTP 404",
