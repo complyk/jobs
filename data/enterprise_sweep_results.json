@@ -1,8 +1,19 @@
 {
-  "run_utc": "2026-10-25T08:51:32.169316+00:00",
-  "cutoff": "2026-10-18",
+  "run_utc": "2026-10-26T09:32:50.532483+00:00",
+  "cutoff": "2026-10-19",
   "window_days": 7,
   "hits": [
+    {
+      "platform": "oracle-hcm",
+      "employer": "First Abu Dhabi Bank",
+      "title": "Principal Lead, Enterprise Compliance",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "url": "https://ehjd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3105",
+      "posted_date": "2026-10-26",
+      "evidence": "Oracle HCM PostedDate",
+      "in_window": true,
+      "age_days": 0
+    },
     {
       "platform": "oracle-hcm",
       "employer": "First Abu Dhabi Bank",
@@ -11,8 +22,8 @@
       "url": "https://ehjd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3101",
       "posted_date": "2026-10-19",
       "evidence": "Oracle HCM PostedDate",
-      "in_window": true,
-      "age_days": 6
+      "in_window": false,
+      "age_days": 7
     },
     {
       "platform": "oracle-hcm",
@@ -23,7 +34,7 @@
       "posted_date": "2026-10-01",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 24
+      "age_days": 25
     },
     {
       "platform": "oracle-hcm",
@@ -34,18 +45,18 @@
       "posted_date": "2026-09-22",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 33
+      "age_days": 34
     }
   ],
   "log": [
-    "[oracle-hcm] Emirates NBD (CX_1): 30 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] Emirates NBD (CX_1): 28 reqs listed, 0 UAE compliance",
     "[oracle-hcm] RAKBank (CX_1): 55 reqs listed, 1 UAE compliance",
     "[oracle-hcm] ADGM (CX_1): 18 reqs listed, 0 UAE compliance",
     "[oracle-hcm] Dubai Multi Commodities Centre: no reachable site endpoint",
-    "[oracle-hcm] Emaar (CX_1001): 6 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] Emaar (CX_1001): 2 reqs listed, 0 UAE compliance",
     "[oracle-hcm] DP World (CX_1): 200 reqs listed, 0 UAE compliance",
     "[oracle-hcm] JPMorgan (CX_1001): 200 reqs listed, 0 UAE compliance",
-    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 116 reqs listed, 2 UAE compliance",
+    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 118 reqs listed, 3 UAE compliance",
     "[oracle-hcm] Abu Dhabi Islamic Bank: no reachable site endpoint",
     "[oracle-hcm] Mashreq: no reachable site endpoint",
     "[successfactors] Pictet: page ok, 0 UAE compliance",
