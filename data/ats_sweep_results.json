@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-10-25T08:46:14.393417+00:00",
+  "run_utc": "2026-10-26T09:25:46.229031+00:00",
   "window_days": 7,
-  "cutoff": "2026-10-18",
+  "cutoff": "2026-10-19",
   "hits": [
     {
       "source": "greenhouse",
@@ -12,7 +12,7 @@
       "posted_date": "2026-10-21",
       "evidence": "Greenhouse first_published",
       "in_window": true,
-      "age_days": 3
+      "age_days": 4
     },
     {
       "source": "greenhouse",
@@ -23,7 +23,7 @@
       "posted_date": "2026-10-13",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 11
+      "age_days": 12
     },
     {
       "source": "greenhouse",
@@ -34,7 +34,7 @@
       "posted_date": "2026-10-06",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 18
+      "age_days": 19
     },
     {
       "source": "greenhouse",
@@ -45,7 +45,7 @@
       "posted_date": "2026-09-04",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 50
+      "age_days": 51
     },
     {
       "source": "greenhouse",
@@ -56,7 +56,7 @@
       "posted_date": "2026-06-15",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 132
+      "age_days": 133
     },
     {
       "source": "workday",
@@ -66,6 +66,105 @@
       "url": "https://citi.wd5.myworkdayjobs.com/job/Dubai-United-Arab-Emirates/Head-Of-AML-UAE---UAE-Nationals-Preferred-_26983431",
       "posted_date": null,
       "evidence": "Workday postedOn",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Project Manager - Risk & Compliance(https://www.naukrigulf.com/project-manager-risk-compliance-jobs-in-abu-dhabi-uae-in-",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/project-manager-risk-compliance-jobs-in-abu-dhabi-uae-in-dicetek-llc-10-to-15-years-m-cd-41691-jid-231026000108",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Compliance Officer & MLRO \u2013 Crypto / VASP (UAE)(https://www.naukrigulf.com/compliance-officer-mlro-crypto-vasp-jobs-in-d",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/compliance-officer-mlro-crypto-vasp-jobs-in-dubai-uae-in-fincrew-3-to-8-years-n-cd-379546-jid-201026000347",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Project Manager-Compliance(https://www.naukrigulf.com/project-manager-compliance-jobs-in-ajman-uae-in-dicetek-llc-6-to-1",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/project-manager-compliance-jobs-in-ajman-uae-in-dicetek-llc-6-to-10-years-m-cd-41691-jid-051026000317",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Lead Trade Compliance operations in Emerging Markets, ensuring customs compliance, managing trade initiatives, and provi",
+      "location": "UAE",
+      "url": "https://static.naukimg.com/ni/nipjp/10007375/10007375_srp.gif",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Manager - Stat Reporting and Compliance(https://www.naukrigulf.com/manager-stat-reporting-and-compliance-jobs-in-abu-dha",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/manager-stat-reporting-and-compliance-jobs-in-abu-dhabi-uae-in-atribs-5-to-7-years-n-cd-10007375-jid-231026500121",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Manager, Client Compliance IQ-EQ(https://www.naukrigulf.com/manager-client-compliance-jobs-in-dubai-uae-in-iq-eq-8-to-10",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/manager-client-compliance-jobs-in-dubai-uae-in-iq-eq-8-to-10-years-n-cd-10050787-jid-231026501185",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Head of Compliance Client of Hanson Search Ltd(https://www.naukrigulf.com/head-of-compliance-jobs-in-abu-dhabi-uae-in-cl",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/head-of-compliance-jobs-in-abu-dhabi-uae-in-client-of-hanson-search-ltd-5-to-10-years-n-cd-10050852-jid-201026500210",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "We are partnering with a fast-growing, ADGM-regulated financial services firm on the appointment of a Head of Compliance",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/admin-compliance-manager-jobs-in-dubai-uae-in-client-of-pink-camel-5-to-10-years-n-cd-10052014-jid-231026500604",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Director of Risks and Compliance DU(https://www.naukrigulf.com/director-of-risks-and-compliance-jobs-in-dubai-uae-in-du-",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/director-of-risks-and-compliance-jobs-in-dubai-uae-in-du-12-to-17-years-n-cd-10000050-jid-161026500099",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
       "in_window": false,
       "age_days": null
     },
@@ -189,110 +288,11 @@
       "evidence": "no date in extracted listing",
       "in_window": false,
       "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
-      "title": "Project Manager - Risk & Compliance(https://www.naukrigulf.com/project-manager-risk-compliance-jobs-in-abu-dhabi-uae-in-",
-      "location": "UAE",
-      "url": "https://www.naukrigulf.com/project-manager-risk-compliance-jobs-in-abu-dhabi-uae-in-dicetek-llc-10-to-15-years-m-cd-41691-jid-231026000108",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
-      "title": "Compliance Officer & MLRO \u2013 Crypto / VASP (UAE)(https://www.naukrigulf.com/compliance-officer-mlro-crypto-vasp-jobs-in-d",
-      "location": "UAE",
-      "url": "https://www.naukrigulf.com/compliance-officer-mlro-crypto-vasp-jobs-in-dubai-uae-in-fincrew-3-to-8-years-n-cd-379546-jid-201026000347",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
-      "title": "Project Manager-Compliance(https://www.naukrigulf.com/project-manager-compliance-jobs-in-ajman-uae-in-dicetek-llc-6-to-1",
-      "location": "UAE",
-      "url": "https://www.naukrigulf.com/project-manager-compliance-jobs-in-ajman-uae-in-dicetek-llc-6-to-10-years-m-cd-41691-jid-051026000317",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
-      "title": "Manager - Stat Reporting and Compliance(https://www.naukrigulf.com/manager-stat-reporting-and-compliance-jobs-in-abu-dha",
-      "location": "UAE",
-      "url": "https://www.naukrigulf.com/manager-stat-reporting-and-compliance-jobs-in-abu-dhabi-uae-in-atribs-5-to-7-years-n-cd-10007375-jid-231026500121",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
-      "title": "Manager, Client Compliance IQ-EQ(https://www.naukrigulf.com/manager-client-compliance-jobs-in-dubai-uae-in-iq-eq-8-to-10",
-      "location": "UAE",
-      "url": "https://www.naukrigulf.com/manager-client-compliance-jobs-in-dubai-uae-in-iq-eq-8-to-10-years-n-cd-10050787-jid-231026501185",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
-      "title": "Admin & Compliance Manager Client of Pink Camel(https://www.naukrigulf.com/admin-compliance-manager-jobs-in-dubai-uae-in",
-      "location": "UAE",
-      "url": "https://www.naukrigulf.com/admin-compliance-manager-jobs-in-dubai-uae-in-client-of-pink-camel-5-to-10-years-n-cd-10052014-jid-231026500604",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
-      "title": "Lead Trade Compliance operations in Emerging Markets, ensuring customs compliance, managing trade initiatives, and provi",
-      "location": "UAE",
-      "url": "https://www.naukrigulf.com/head-of-compliance-jobs-in-abu-dhabi-uae-in-client-of-hanson-search-ltd-5-to-10-years-n-cd-10050852-jid-201026500210",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
-      "title": "We are partnering with a fast-growing, ADGM-regulated financial services firm on the appointment of a Head of Compliance",
-      "location": "UAE",
-      "url": "https://static.naukimg.com/ni/nipjp/40005715/40005715_srp.gif",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
-    },
-    {
-      "source": "board:naukrigulf-compliance",
-      "company": "naukrigulf",
-      "title": "Chief Compliance Officer Mal.AI(https://www.naukrigulf.com/chief-compliance-officer-jobs-in-abu-dhabi-uae-in-mal-ai-0-to",
-      "location": "UAE",
-      "url": "https://www.naukrigulf.com/chief-compliance-officer-jobs-in-abu-dhabi-uae-in-mal-ai-0-to-5-years-n-cd-40005715-jid-141026500116",
-      "posted_date": null,
-      "evidence": "no date in extracted listing",
-      "in_window": false,
-      "age_days": null
     }
   ],
   "log": [
     "[ashby] LeanTech: ok (9 jobs, 2 UAE)",
-    "[ashby] airwallex: ok (508 jobs, 3 UAE)",
+    "[ashby] airwallex: ok (510 jobs, 3 UAE)",
     "[ashby] alloy: ok (26 jobs, 0 UAE)",
     "[ashby] belo: HTTP 404",
     "[ashby] bitso: HTTP 404",
@@ -300,7 +300,7 @@
     "[ashby] buenbit: HTTP 404",
     "[ashby] chainalysis: HTTP 404",
     "[ashby] deribit: HTTP 404",
-    "[ashby] elliptic: ok (30 jobs, 0 UAE)",
+    "[ashby] elliptic: ok (29 jobs, 0 UAE)",
     "[ashby] flowdesk: HTTP 404",
     "[ashby] fuze: HTTP 404",
     "[ashby] hubpay: HTTP 404",
@@ -340,11 +340,11 @@
     "[greenhouse] axitrader: HTTP 404",
     "[greenhouse] baraka: HTTP 404",
     "[greenhouse] bayut: HTTP 404",
-    "[greenhouse] binance: ok (234 jobs, 45 UAE)",
+    "[greenhouse] binance: ok (245 jobs, 47 UAE)",
     "[greenhouse] bingx: HTTP 404",
     "[greenhouse] bitget: HTTP 404",
     "[greenhouse] bitgo: ok (51 jobs, 0 UAE)",
-    "[greenhouse] bybit: ok (156 jobs, 48 UAE)",
+    "[greenhouse] bybit: ok (155 jobs, 47 UAE)",
     "[greenhouse] capitalcom: HTTP 404",
     "[greenhouse] careemtech: HTTP 404",
     "[greenhouse] chainalysis: HTTP 404",
@@ -360,7 +360,7 @@
     "[greenhouse] du-telecom: HTTP 404",
     "[greenhouse] dubizzle: HTTP 404",
     "[greenhouse] e-and: HTTP 404",
-    "[greenhouse] ebury: ok (144 jobs, 1 UAE)",
+    "[greenhouse] ebury: ok (142 jobs, 1 UAE)",
     "[greenhouse] emiratesnbdgroup: HTTP 404",
     "[greenhouse] etisalat: HTTP 404",
     "[greenhouse] exness: HTTP 404",
@@ -368,7 +368,7 @@
     "[greenhouse] falconxbravo: HTTP 404",
     "[greenhouse] fetchr: HTTP 404",
     "[greenhouse] fireblocks: ok (27 jobs, 2 UAE)",
-    "[greenhouse] flowtraders: ok (46 jobs, 0 UAE)",
+    "[greenhouse] flowtraders: ok (43 jobs, 0 UAE)",
     "[greenhouse] fxpro: ok (29 jobs, 2 UAE)",
     "[greenhouse] g42ai: HTTP 404",
     "[greenhouse] galaxydigital: HTTP 404",
@@ -397,11 +397,11 @@
     "[greenhouse] network-international: HTTP 404",
     "[greenhouse] nium: HTTP 404",
     "[greenhouse] noon: HTTP 404",
-    "[greenhouse] okx: ok (356 jobs, 5 UAE)",
+    "[greenhouse] okx: ok (359 jobs, 5 UAE)",
     "[greenhouse] optiver: ok (0 jobs, 0 UAE)",
     "[greenhouse] papayaglobal: HTTP 404",
     "[greenhouse] paxosglobal: HTTP 404",
-    "[greenhouse] payoneer: ok (100 jobs, 0 UAE)",
+    "[greenhouse] payoneer: ok (101 jobs, 0 UAE)",
     "[greenhouse] paysafe: HTTP 404",
     "[greenhouse] pepperstone: HTTP 404",
     "[greenhouse] pinelabs: HTTP 404",
@@ -418,12 +418,12 @@
     "[greenhouse] shuaacapital: HTTP 404",
     "[greenhouse] space42: HTTP 404",
     "[greenhouse] stashaway: HTTP 404",
-    "[greenhouse] stripe: ok (719 jobs, 0 UAE)",
+    "[greenhouse] stripe: ok (720 jobs, 0 UAE)",
     "[greenhouse] swissquote: HTTP 404",
     "[greenhouse] swvl: HTTP 404",
     "[greenhouse] tabby: HTTP 404",
     "[greenhouse] talabat: HTTP 404",
-    "[greenhouse] tamara: ok (45 jobs, 14 UAE)",
+    "[greenhouse] tamara: ok (47 jobs, 16 UAE)",
     "[greenhouse] telr: HTTP 404",
     "[greenhouse] thinkmarkets: HTTP 404",
     "[greenhouse] thunes: ok (52 jobs, 0 UAE)",
@@ -438,7 +438,7 @@
     "[lever] bitfury: HTTP 404",
     "[lever] bitoasis: HTTP 404",
     "[lever] bitpanda: HTTP 404",
-    "[lever] capital: ok (57 jobs, 8 UAE)",
+    "[lever] capital: ok (56 jobs, 9 UAE)",
     "[lever] careem: HTTP 404",
     "[lever] cashew: HTTP 404",
     "[lever] complyadvantage: HTTP 404",
