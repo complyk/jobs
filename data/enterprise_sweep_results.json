@@ -1,6 +1,6 @@
 {
-  "run_utc": "2026-11-01T10:56:26.850140+00:00",
-  "cutoff": "2026-10-25",
+  "run_utc": "2026-11-02T11:54:52.323743+00:00",
+  "cutoff": "2026-10-26",
   "window_days": 7,
   "hits": [
     {
@@ -12,7 +12,7 @@
       "posted_date": "2026-10-27",
       "evidence": "Oracle HCM PostedDate",
       "in_window": true,
-      "age_days": 5
+      "age_days": 6
     },
     {
       "platform": "oracle-hcm",
@@ -22,8 +22,8 @@
       "url": "https://ehjd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3105",
       "posted_date": "2026-10-26",
       "evidence": "Oracle HCM PostedDate",
-      "in_window": true,
-      "age_days": 6
+      "in_window": false,
+      "age_days": 7
     },
     {
       "platform": "oracle-hcm",
@@ -34,7 +34,7 @@
       "posted_date": "2026-10-19",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "platform": "oracle-hcm",
@@ -45,18 +45,18 @@
       "posted_date": "2026-10-01",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 31
+      "age_days": 32
     }
   ],
   "log": [
-    "[oracle-hcm] Emirates NBD (CX_1): 31 reqs listed, 0 UAE compliance",
-    "[oracle-hcm] RAKBank (CX_1): 46 reqs listed, 1 UAE compliance",
+    "[oracle-hcm] Emirates NBD (CX_1): 32 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] RAKBank (CX_1): 49 reqs listed, 1 UAE compliance",
     "[oracle-hcm] ADGM (CX_1): 19 reqs listed, 0 UAE compliance",
     "[oracle-hcm] Dubai Multi Commodities Centre: no reachable site endpoint",
     "[oracle-hcm] Emaar (CX_1001): 2 reqs listed, 0 UAE compliance",
     "[oracle-hcm] DP World (CX_1): 200 reqs listed, 0 UAE compliance",
     "[oracle-hcm] JPMorgan (CX_1001): 200 reqs listed, 0 UAE compliance",
-    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 81 reqs listed, 3 UAE compliance",
+    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 82 reqs listed, 3 UAE compliance",
     "[oracle-hcm] Abu Dhabi Islamic Bank: no reachable site endpoint",
     "[oracle-hcm] Mashreq: no reachable site endpoint",
     "[successfactors] Pictet: page ok, 0 UAE compliance",
