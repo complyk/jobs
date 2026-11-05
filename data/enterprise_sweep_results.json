@@ -1,6 +1,6 @@
 {
-  "run_utc": "2026-11-04T11:46:34.056535+00:00",
-  "cutoff": "2026-10-28",
+  "run_utc": "2026-11-05T11:44:47.858831+00:00",
+  "cutoff": "2026-10-29",
   "window_days": 7,
   "hits": [
     {
@@ -12,7 +12,7 @@
       "posted_date": "2026-10-27",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 8
+      "age_days": 9
     },
     {
       "platform": "oracle-hcm",
@@ -23,7 +23,7 @@
       "posted_date": "2026-10-26",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "platform": "oracle-hcm",
@@ -34,7 +34,7 @@
       "posted_date": "2026-10-19",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 16
+      "age_days": 17
     },
     {
       "platform": "oracle-hcm",
@@ -45,18 +45,18 @@
       "posted_date": "2026-10-01",
       "evidence": "Oracle HCM PostedDate",
       "in_window": false,
-      "age_days": 34
+      "age_days": 35
     }
   ],
   "log": [
-    "[oracle-hcm] Emirates NBD (CX_1): 33 reqs listed, 0 UAE compliance",
-    "[oracle-hcm] RAKBank (CX_1): 49 reqs listed, 1 UAE compliance",
+    "[oracle-hcm] Emirates NBD (CX_1): 35 reqs listed, 0 UAE compliance",
+    "[oracle-hcm] RAKBank (CX_1): 50 reqs listed, 1 UAE compliance",
     "[oracle-hcm] ADGM (CX_1): 20 reqs listed, 0 UAE compliance",
     "[oracle-hcm] Dubai Multi Commodities Centre: no reachable site endpoint",
     "[oracle-hcm] Emaar (CX_1001): 2 reqs listed, 0 UAE compliance",
     "[oracle-hcm] DP World (CX_1): 200 reqs listed, 0 UAE compliance",
     "[oracle-hcm] JPMorgan (CX_1001): 200 reqs listed, 0 UAE compliance",
-    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 84 reqs listed, 3 UAE compliance",
+    "[oracle-hcm] First Abu Dhabi Bank (CX_1): 86 reqs listed, 3 UAE compliance",
     "[oracle-hcm] Abu Dhabi Islamic Bank: no reachable site endpoint",
     "[oracle-hcm] Mashreq: no reachable site endpoint",
     "[successfactors] Pictet: page ok, 0 UAE compliance",
