@@ -1,7 +1,7 @@
 {
-  "run_utc": "2026-11-07T10:44:34.493729+00:00",
+  "run_utc": "2026-11-08T10:48:54.842959+00:00",
   "window_days": 7,
-  "cutoff": "2026-10-31",
+  "cutoff": "2026-11-01",
   "hits": [
     {
       "source": "greenhouse",
@@ -12,7 +12,7 @@
       "posted_date": "2026-11-05",
       "evidence": "Greenhouse first_published",
       "in_window": true,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "source": "greenhouse",
@@ -23,7 +23,7 @@
       "posted_date": "2026-10-21",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 16
+      "age_days": 17
     },
     {
       "source": "greenhouse",
@@ -34,7 +34,7 @@
       "posted_date": "2026-10-13",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 24
+      "age_days": 25
     },
     {
       "source": "greenhouse",
@@ -45,7 +45,7 @@
       "posted_date": "2026-10-06",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 31
+      "age_days": 32
     },
     {
       "source": "greenhouse",
@@ -56,7 +56,7 @@
       "posted_date": "2026-09-04",
       "evidence": "Greenhouse first_published",
       "in_window": false,
-      "age_days": 63
+      "age_days": 64
     },
     {
       "source": "workday",
@@ -70,11 +70,66 @@
       "age_days": null
     },
     {
-      "source": "board:bayt-mlro",
-      "company": "bayt",
-      "title": "URL Source: https://www.bayt.com/en/uae/jobs/mlro-jobs/",
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Project Manager - Risk & Compliance(https://www.naukrigulf.com/project-manager-risk-compliance-jobs-in-abu-dhabi-uae-in-",
       "location": "UAE",
-      "url": "https://www.bayt.com/favicon.ico",
+      "url": "https://www.naukrigulf.com/project-manager-risk-compliance-jobs-in-abu-dhabi-uae-in-dicetek-llc-10-to-15-years-m-cd-41691-jid-261026000143",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Project Manager - Risk & Compliance(https://www.naukrigulf.com/project-manager-risk-compliance-jobs-in-abu-dhabi-uae-in-",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/project-manager-risk-compliance-jobs-in-abu-dhabi-uae-in-dicetek-llc-10-to-15-years-m-cd-41691-jid-231026000108",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Compliance Officer & MLRO \u2013 Crypto / VASP (UAE)(https://www.naukrigulf.com/compliance-officer-mlro-crypto-vasp-jobs-in-d",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/compliance-officer-mlro-crypto-vasp-jobs-in-dubai-uae-in-fincrew-3-to-8-years-n-cd-379546-jid-201026000347",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Senior Manager - Programme Compliance(https://www.naukrigulf.com/senior-manager-programme-compliance-jobs-in-abu-dhabi-u",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/senior-manager-programme-compliance-jobs-in-abu-dhabi-uae-in-abu-dhabi-ports-15-to-30-years-n-cd-10004813-jid-051126500977",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Compliance Officer and MLRO(https://www.naukrigulf.com/compliance-officer-and-mlro-jobs-in-abu-dhabi-uae-in-apex-0-to-5-",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/compliance-officer-and-mlro-jobs-in-abu-dhabi-uae-in-apex-0-to-5-years-n-cd-10004044-jid-041126501259",
+      "posted_date": null,
+      "evidence": "no date in extracted listing",
+      "in_window": false,
+      "age_days": null
+    },
+    {
+      "source": "board:naukrigulf-compliance",
+      "company": "naukrigulf",
+      "title": "Risk & Compliance Director Mintlayer(https://www.naukrigulf.com/risk-compliance-director-jobs-in-abu-dhabi-uae-in-mintla",
+      "location": "UAE",
+      "url": "https://www.naukrigulf.com/risk-compliance-director-jobs-in-abu-dhabi-uae-in-mintlayer-7-to-12-years-n-cd-40006051-jid-301026500935",
       "posted_date": null,
       "evidence": "no date in extracted listing",
       "in_window": false,
@@ -202,7 +257,7 @@
     "[ashby] nymcard: HTTP 404",
     "[ashby] onfido: HTTP 404",
     "[ashby] persona: ok (14 jobs, 0 UAE)",
-    "[ashby] ramp: ok (171 jobs, 0 UAE)",
+    "[ashby] ramp: ok (169 jobs, 0 UAE)",
     "[ashby] ripio: HTTP 404",
     "[ashby] sardine: ok (41 jobs, 2 UAE)",
     "[ashby] socure: ok (88 jobs, 0 UAE)",
@@ -217,10 +272,10 @@
     "[ashby] zodia: HTTP 404",
     "[board] bayt-head-aml: FAILED (datacenter IP blocked; proxies unavailable)",
     "[board] bayt-head-compliance: FAILED (datacenter IP blocked; proxies unavailable)",
-    "[board] bayt-mlro: ok via r.jina.ai (1 in-scope lines)",
+    "[board] bayt-mlro: FAILED (datacenter IP blocked; proxies unavailable)",
     "[board] efc-uae: ok via r.jina.ai (0 in-scope lines)",
     "[board] gulftalent-compliance: ok via r.jina.ai (9 in-scope lines)",
-    "[board] naukrigulf-compliance: ok via r.jina.ai (0 in-scope lines)",
+    "[board] naukrigulf-compliance: ok via r.jina.ai (6 in-scope lines)",
     "[greenhouse] adcbbank: HTTP 404",
     "[greenhouse] adia: HTTP 404",
     "[greenhouse] airwallexglobal: HTTP 404",
@@ -308,7 +363,7 @@
     "[greenhouse] shuaacapital: HTTP 404",
     "[greenhouse] space42: HTTP 404",
     "[greenhouse] stashaway: HTTP 404",
-    "[greenhouse] stripe: ok (765 jobs, 0 UAE)",
+    "[greenhouse] stripe: ok (766 jobs, 0 UAE)",
     "[greenhouse] swissquote: HTTP 404",
     "[greenhouse] swvl: HTTP 404",
     "[greenhouse] tabby: HTTP 404",
